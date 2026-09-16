@@ -1,0 +1,509 @@
+[[pf]]
+src = "然后最好还是可以web code一个"
+dst = "最好还是可以 vibe code 一个"
+ts = "00:00:41.240 --> 00:00:42.940"
+
+[[pf]]
+src = "你可以把数据库和你的SMAIL的邮箱关联关联起来"
+dst = "可以把数据库和你的邮箱关联起来"
+ts = "00:02:33.880 --> 00:02:39.220"
+
+[[pf]]
+src = "以及用你的信息可以办理一号的事物"
+dst = "还可以用你的信息在 e-hall 办理事务"
+ts = "00:02:59.490 --> 00:03:02.930"
+
+[[pf]]
+src = "最后直到陷入啊交流坑"
+dst = "最后陷入焦油坑"
+ts = "00:03:52.699 --> 00:03:54.819"
+
+[[pf]]
+src = "也就是你当你的AI is lap开始不断的消耗你的token的时候"
+dst = "也就是当 AI slop 开始不断消耗你的 token 时"
+ts = "00:04:01.730 --> 00:04:05.570"
+
+[[pf]]
+src = "然后你会发现你就你现在live1"
+dst = "然后你会发现你现在的 Lab 1"
+ts = "00:04:38.550 --> 00:04:42.160"
+
+[[pf]]
+src = "可能可以两个spring shots"
+dst = "可以放两张 screenshots"
+ts = "00:05:46.070 --> 00:05:48.109"
+
+[[pf]]
+src = "你不需要知道这个软件系统是怎么样对吧，它的SPICATION是什么"
+dst = "你不需要知道这个软件系统是什么样、它的 specification 是什么"
+ts = "00:06:16.500 --> 00:06:20.630"
+
+[[pf]]
+src = "比如说你要把link list换成是一个更高效的tree的结构去优化性能"
+dst = "比如要把 linked list 换成更高效的 tree 结构来优化性能"
+ts = "00:08:14.720 --> 00:08:20.330"
+
+[[pf]]
+src = "问题叫叫TRACABILITY"
+dst = "问题叫 traceability"
+ts = "00:09:43.670 --> 00:09:48.660"
+
+[[pf]]
+src = "他就叫suffer trace ability"
+dst = "它叫 software traceability"
+ts = "00:09:54.689 --> 00:09:58.469"
+
+[[pf]]
+src = "我今天一会会讲那个GGT"
+dst = "我今天稍后会讲 jj"
+ts = "00:10:56.730 --> 00:11:01.170"
+
+[[pf]]
+src = "叫这个就叫report点dB"
+dst = "例如叫 repo.db"
+ts = "00:12:35.120 --> 00:12:41.639"
+
+[[pf]]
+src = "AI能够理解这个RO"
+dst = "AI 能够理解这个 repo"
+ts = "00:12:59.720 --> 00:13:03.360"
+
+[[pf]]
+src = "看我这个ripple"
+dst = "看我这个 repo"
+ts = "00:15:07.850 --> 00:15:09.230"
+
+[[pf]]
+src = "然后甚至还有这个点cash"
+dst = "甚至还有 .cache"
+ts = "00:15:13.150 --> 00:15:15.210"
+
+[[pf]]
+src = "生成一个和我要改的这一小步相关的VIVO，一个视图"
+dst = "生成一个和我要改的这一小步相关的 view，一个视图"
+ts = "00:16:01.890 --> 00:16:08.370"
+
+[[pf]]
+src = "他还是一个rapport点BB"
+dst = "它还是一个 repo.db"
+ts = "00:16:49.510 --> 00:16:56.240"
+
+[[pf]]
+src = "现在的这种现代ID，比如说cursor"
+dst = "现在的这种现代 IDE，比如 Cursor"
+ts = "00:17:36.440 --> 00:17:39.420"
+
+[[pf]]
+src = "因为我上上节课说我我呃问那个同学们get rebase"
+dst = "因为我上上节课问同学们 git rebase"
+ts = "00:19:29.819 --> 00:19:36.530"
+
+[[pf]]
+src = "所以瑞贝斯mage用的场景就很少"
+dst = "所以 rebase、merge 的使用场景就很少"
+ts = "00:19:43.390 --> 00:19:47.780"
+
+[[pf]]
+src = "会看到过叫contributing点MD"
+dst = "会看到 CONTRIBUTING.md"
+ts = "00:20:03.510 --> 00:20:05.750"
+
+[[pf]]
+src = "我们要保持现行历史"
+dst = "我们要保持线性历史"
+ts = "00:20:58.770 --> 00:21:00.870"
+
+[[pf]]
+src = "如果我们把change也变成first class citizen"
+dst = "如果我们把 change 也变成 first-class citizen"
+ts = "00:28:36.470 --> 00:28:44.210"
+
+[[pf]]
+src = "甚至甚至这个呃机器组，它是和git底层完全兼容的"
+dst = "而且 jj 与 Git 底层完全兼容"
+ts = "00:28:57.230 --> 00:29:05.180"
+
+[[pf]]
+src = "他都可以sin一个这个呃一个change"
+dst = "每个 change 都有稳定的 Change ID"
+ts = "00:29:18.420 --> 00:29:22.660"
+
+[[pf]]
+src = "你现在有个report"
+dst = "你现在有一个repo"
+ts = "00:30:25.360 --> 00:30:27.300"
+
+[[pf]]
+src = "然后get sth，然后他会压榨压榨"
+dst = "然后git stash，它会把改动压栈"
+ts = "00:31:01.770 --> 00:31:04.250"
+
+[[pf]]
+src = "那get it statch是一个站"
+dst = "git stash是一个栈"
+ts = "00:31:24.280 --> 00:31:25.990"
+
+[[pf]]
+src = "这个JJS"
+dst = "Jujutsu（jj）"
+ts = "00:31:53.670 --> 00:31:56.870"
+
+[[pf]]
+src = "你连这个seating error也不需要了"
+dst = "你连staging area也不需要了"
+ts = "00:32:34.549 --> 00:32:39.830"
+
+[[pf]]
+src = "我要把change作为first class citizen"
+dst = "我要把change作为first-class citizen"
+ts = "00:32:45.280 --> 00:32:48.560"
+
+[[pf]]
+src = "如果你看他的TUTR的话"
+dst = "如果你看它的tutorial的话"
+ts = "00:33:29.439 --> 00:33:32.639"
+
+[[pf]]
+src = "它是一个persistent data加structure"
+dst = "它使用persistent data structure"
+ts = "00:35:03.650 --> 00:35:05.430"
+
+[[pf]]
+src = "人类是这个singles ready的生物"
+dst = "人类是single-threaded的生物"
+ts = "00:36:48.920 --> 00:36:51.400"
+
+[[pf]]
+src = "我们只有一份L设备"
+dst = "我们只有一套I/O设备"
+ts = "00:38:39.520 --> 00:38:41.160"
+
+[[pf]]
+src = "然后你就去产生垂直"
+dst = "然后你就去产生commit"
+ts = "00:40:01.540 --> 00:40:03.450"
+
+[[pf]]
+src = "生产这个AISLOFT的速度"
+dst = "生产AI slop的速度"
+ts = "00:41:05.270 --> 00:41:10.030"
+
+[[pf]]
+src = "讲DPCV4flash"
+dst = "DeepSeek-V4-Flash"
+ts = "00:41:19.700 --> 00:41:20.780"
+
+[[pf]]
+src = "git点NHU点E点点CN"
+dst = "git.nju.edu.cn"
+ts = "00:42:34.030 --> 00:42:38.050"
+
+[[pf]]
+src = "从t max里面收到命令"
+dst = "从tmux里面收到命令"
+ts = "00:42:45.120 --> 00:42:50.050"
+
+[[pf]]
+src = "我可以给他每一个都起一个派"
+dst = "我可以给它们分别启动一个pi"
+ts = "00:44:15.310 --> 00:44:19.710"
+
+[[pf]]
+src = "现在一个流行的PARADIM"
+dst = "现在一种流行的paradigm"
+ts = "00:45:41.740 --> 00:45:45.500"
+
+[[pf]]
+src = "让cloud来review"
+dst = "让Claude来review"
+ts = "00:46:00.720 --> 00:46:02.700"
+
+[[pf]]
+src = "你的主位制呢就负责协调"
+dst = "你的主Agent负责协调"
+ts = "00:46:06.490 --> 00:46:12.320"
+
+[[pf]]
+src = "往里面inject prompt"
+dst = "向其中inject prompt"
+ts = "00:46:12.320 --> 00:46:14.620"
+
+[[pf]]
+src = "如果他们工作在不同的rap上"
+dst = "如果它们工作在不同的repo上"
+ts = "00:46:36.100 --> 00:46:40.380"
+
+[[pf]]
+src = "我们今天也有一些work around的"
+dst = "我们今天也有一些workaround"
+ts = "00:46:58.440 --> 00:47:02.260"
+
+[[pf]]
+src = "git就有work tree这样的功能"
+dst = "Git就有worktree这样的功能"
+ts = "00:47:02.260 --> 00:47:05.800"
+
+[[pf]]
+src = "让这两个体Mark sessions都工作在WORKT吗"
+dst = "让这两个tmux session都工作在worktree中吗"
+ts = "00:47:15.430 --> 00:47:26.030"
+
+[[pf]]
+src = "我们的get it允许我们创建一个工作数"
+dst = "Git允许我们创建另一个working tree"
+ts = "00:48:29.730 --> 00:48:35.520"
+
+[[pf]]
+src = "就是一个git ripple"
+dst = "就是同一个Git repo的独立工作副本"
+ts = "00:48:35.520 --> 00:48:42.389"
+
+[[pf]]
+src = "点get是一个目录"
+dst = "`.git`是一个目录"
+ts = "00:48:46.849 --> 00:48:50.090"
+
+[[pf]]
+src = "那WALKTHROUGH里面的点get的是什么呢"
+dst = "那worktree里面的`.git`是什么呢"
+ts = "00:49:13.560 --> 00:49:17.339"
+
+[[pf]]
+src = "这个文件说GDIR"
+dst = "这个文件包含一行`gitdir:`"
+ts = "00:49:44.220 --> 00:49:47.260"
+
+[[pf]]
+src = "你看它指向了一个VTREE"
+dst = "它指向主仓库`.git/worktrees/`下的一个目录"
+ts = "00:49:47.260 --> 00:49:50.920"
+
+[[pf]]
+src = "它依然有是head index locks这些"
+dst = "它依然有`HEAD`、`index`、`logs`等内容"
+ts = "00:50:13.610 --> 00:50:20.750"
+
+[[pf]]
+src = "不需要互相的铺和push"
+dst = "不需要彼此pull和push"
+ts = "00:50:37.890 --> 00:50:42.090"
+
+[[pf]]
+src = "WORKTI提供了一个更清亮的合作的方式"
+dst = "worktree提供了一种更轻量的协作方式"
+ts = "00:50:50.920 --> 00:50:55.880"
+
+[[pf]]
+src = "所以我们需要git的各种各样的best practice"
+dst = "所以我们需要Git的各种best practices"
+ts = "00:52:40.730 --> 00:52:45.130"
+
+[[pf]]
+src = "你改一个title也要做一个commit"
+dst = "你改一个typo也要做一个commit"
+ts = "00:52:47.090 --> 00:52:49.409"
+
+[[pf]]
+src = "有了get it by sec的、get it blame"
+dst = "有了`git bisect`、`git blame`"
+ts = "00:53:15.340 --> 00:53:22.670"
+
+[[pf]]
+src = "就会导致这个traction的BT"
+dst = "就会导致这个transaction abort"
+ts = "00:56:50.600 --> 00:56:56.230"
+
+[[pf]]
+src = "相当于他要roll back"
+dst = "相当于它要rollback"
+ts = "00:57:03.580 --> 00:57:09.690"
+
+[[pf]]
+src = "像这种这种乐观的并发控制，of of of mist optimistic"
+dst = "像这种optimistic concurrency control"
+ts = "00:57:09.690 --> 00:57:15.390"
+
+[[pf]]
+src = "更频繁的触发这个transaction的bot"
+dst = "更频繁地触发transaction abort"
+ts = "00:58:35.200 --> 00:58:41.880"
+
+[[pf]]
+src = "触发这种OLBOT"
+dst = "触发这种abort"
+ts = "00:58:41.880 --> 00:58:46.650"
+
+[[pf]]
+src = "我要declare对这个资源的使用"
+dst = "我要在使用资源前declare，通过上锁取得资源"
+ts = "00:59:54.360 --> 01:00:02.590"
+
+[[pf]]
+src = "我应该在一个git ripple或者一个快照上，我支持一个锁的操作"
+dst = "我应该在一个Git repo或者snapshot上支持lock操作"
+ts = "01:00:35.669 --> 01:00:43.220"
+
+[[pf]]
+src = "我觉得呃在A证的时代"
+dst = "我觉得在Agent的时代"
+ts = "01:02:08.290 --> 01:02:10.180"
+
+[[pf]]
+src = "get it可能是一条线"
+dst = "Git可能是一条线"
+ts = "01:02:28.660 --> 01:02:30.060"
+
+[[pf]]
+src = "这个是C口查询"
+dst = "SQL查询"
+ts = "01:02:46.870 --> 01:02:48.190"
+
+[[pf]]
+src = "adversary lock"
+dst = "advisory lock"
+ts = "01:02:59.840 --> 01:03:02.500"
+
+[[pf]]
+src = "摩尔定律本质上也是用skin log"
+dst = "摩尔定律本质上也是一种scaling law"
+ts = "01:05:23.420 --> 01:05:26.250"
+
+[[pf]]
+src = "desk v4的这个slave"
+dst = "DeepSeek-V4这样的slave"
+ts = "01:07:22.310 --> 01:07:24.460"
+
+[[pf]]
+src = "哈洛塔都会低V的"
+dst = "汉诺塔递归的"
+ts = "01:08:46.160 --> 01:08:49.180"
+
+[[pf]]
+src = "反正人也不是很大"
+dst = "反正n也不是很大"
+ts = "01:10:19.700 --> 01:10:20.900"
+
+[[pf]]
+src = "基于inductive就归纳法"
+dst = "基于induction，也就是归纳法"
+ts = "01:12:04.360 --> 01:12:09.070"
+
+[[pf]]
+src = "deep pick的token"
+dst = "DeepSeek的token"
+ts = "01:13:38.480 --> 01:13:41.240"
+
+[[pf]]
+src = "我也让那个GTT起来"
+dst = "我也让GPT来"
+ts = "01:14:27.960 --> 01:14:30.900"
+
+[[pf]]
+src = "它可以把它当成是一个git ripple导出"
+dst = "它可以把项目当成一个Git repository导出"
+ts = "01:15:14.930 --> 01:15:17.610"
+
+[[pf]]
+src = "给每一个点text文件都去修复"
+dst = "逐个修复每个.tex文件"
+ts = "01:15:37.570 --> 01:15:41.190"
+
+[[pf]]
+src = "比如说我现在idol了"
+dst = "比如说我现在idle了"
+ts = "01:16:10.620 --> 01:16:12.100"
+
+[[pf]]
+src = "然后我们说这个pickle playground"
+dst = "然后我们说这个Pico Playground"
+ts = "01:15:50.250 --> 01:15:52.850"
+
+[[pf]]
+src = "你学这个mod agent的管理"
+dst = "你学multi-agent管理"
+ts = "01:17:47.930 --> 01:17:50.450"
+
+[[pf]]
+src = "比如像cloud code"
+dst = "比如Claude Code"
+ts = "01:20:29.500 --> 01:20:32.580"
+
+[[pf]]
+src = "一段JAVASCRIPT，一个一段typescript"
+dst = "一段JavaScript或TypeScript"
+ts = "01:20:36.230 --> 01:20:39.610"
+
+[[pf]]
+src = "当他用这种方式来组织播骷髅"
+dst = "当它用这种方式组织workflow"
+ts = "01:20:50.160 --> 01:20:52.120"
+
+[[pf]]
+src = "这个300token persd"
+dst = "300 token/s"
+ts = "01:21:22.640 --> 01:21:25.220"
+
+[[pf]]
+src = "你的intent，你的specification，你的intention是有巨大gap的"
+dst = "intent与specification、implementation之间存在巨大的gap"
+ts = "01:25:00.100 --> 01:25:05.700"
+
+[[pf]]
+src = "当我提一号的时候"
+dst = "当我提到e-hall时"
+ts = "01:25:18.970 --> 01:25:22.290"
+
+[[pf]]
+src = "L1号只是一个作为测试的出口"
+dst = "e-hall只是一个测试入口"
+ts = "01:25:28.030 --> 01:25:30.930"
+
+[[pf]]
+src = "你作为过渡设计反而不好"
+dst = "过度设计反而不好"
+ts = "01:25:40.110 --> 01:25:42.770"
+
+[[pf]]
+src = "从read me点MD来看"
+dst = "从README.md来看"
+ts = "01:25:53.340 --> 01:25:55.880"
+
+[[pf]]
+src = "我参与DPC哈里斯内测"
+dst = "我参与DeepSeek harness首批内测"
+ts = "01:26:55.930 --> 01:26:58.280"
+
+[[pf]]
+src = "先第一件事一定是创建一个空的这个"
+dst = "第一件事一定是创建一个空的repository"
+ts = "01:27:22.560 --> 01:27:27.030"
+
+[[pf]]
+src = "从第一步开始迈出向后的一小步"
+dst = "从第一步开始向前迈出一小步"
+ts = "01:30:44.560 --> 01:30:47.720"
+
+[[pf]]
+src = "MVP的PARAA"
+dst = "MVP的方法"
+ts = "01:32:43.350 --> 01:32:47.920"
+
+[[pf]]
+src = "minimum variable product或者minimal viable product"
+dst = "Minimum Viable Product"
+ts = "01:32:47.920 --> 01:32:50.820"
+
+[[pf]]
+src = "每次数据库重构都需要让agent做这个database的迁移"
+dst = "每次数据库重构都需要Agent做database migration"
+ts = "01:34:03.490 --> 01:34:07.650"
+
+[[pf]]
+src = "然后会把那个email id放到我的一个共享的云盘同步上"
+dst = "然后会把.eml文件放到共享云盘同步"
+ts = "01:35:25.110 --> 01:35:30.889"
+
+[[pf]]
+src = "它有一个SISTANT点dB"
+dst = "它有一个assistant.db"
+ts = "01:36:53.100 --> 01:36:56.740"
