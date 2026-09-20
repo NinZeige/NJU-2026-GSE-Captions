@@ -1,0 +1,534 @@
+[[pf]]
+src = "这个type c AI最新发布了一个"
+dst = "TypeSafe AI 最近发布了一个"
+ts = "00:00:25.960 --> 00:00:32.000"
+
+[[pf]]
+src = "它是一个prefer only的一个"
+dst = "我盲猜它可能是某种只做一次前向计算的模型"
+ts = "00:00:41.930 --> 00:00:43.850"
+
+[[pf]]
+src = "介于大圆模型和这个以前的那种比如说决策树"
+dst = "介于大语言模型和过去的决策树等小模型之间"
+ts = "00:01:20.730 --> 00:01:26.870"
+
+[[pf]]
+src = "他给自己一个名字叫system one"
+dst = "它把这类模型叫 System One Model"
+ts = "00:01:35.690 --> 00:01:38.210"
+
+[[pf]]
+src = "像磁向量啊这个transformer啊BT啊"
+dst = "词向量、Transformer、BERT"
+ts = "00:04:20.239 --> 00:04:25.480"
+
+[[pf]]
+src = "他们训练了gt3"
+dst = "他们训练了 GPT-3"
+ts = "00:04:45.910 --> 00:04:47.390"
+
+[[pf]]
+src = "2024年9月的时候才有的chal salt的o one的模型"
+dst = "2024 年 9 月才有 OpenAI 的 o1 模型"
+ts = "00:05:33.480 --> 00:05:37.300"
+
+[[pf]]
+src = "这个GP6s pro"
+dst = "GPT-6 Pro"
+ts = "00:05:40.629 --> 00:05:41.989"
+
+[[pf]]
+src = "这个JEFF带带火的"
+dst = "Jev 带火的"
+ts = "00:07:38.860 --> 00:07:42.180"
+
+[[pf]]
+src = "这个NO brown的访谈"
+dst = "Noam Brown 的访谈"
+ts = "00:08:05.240 --> 00:08:12.820"
+
+[[pf]]
+src = "你的autumn formalization"
+dst = "自动形式化（autoformalization）"
+ts = "00:09:37.190 --> 00:09:38.750"
+
+[[pf]]
+src = "他说他有all in i r ISI"
+dst = "他说要 all in RSI"
+ts = "00:10:12.940 --> 00:10:16.400"
+
+[[pf]]
+src = "另外一个维度的skin law"
+dst = "另一个维度的 scaling law"
+ts = "00:11:14.900 --> 00:11:20.590"
+
+[[pf]]
+src = "所以ENTROPIC去买书然后去烧书"
+dst = "所以 Anthropic 买书、烧书，取得训练数据"
+ts = "00:11:26.480 --> 00:11:28.760"
+
+[[pf]]
+src = "它就能够得到这个road hack的反馈信号"
+dst = "它就能得到 reward hacking 的反馈信号"
+ts = "00:12:40.540 --> 00:12:43.200"
+
+[[pf]]
+src = "反华的效果"
+dst = "泛化的效果"
+ts = "00:13:05.950 --> 00:13:08.400"
+
+[[pf]]
+src = "这个讯推能够一致"
+dst = "训推一致"
+ts = "00:14:02.710 --> 00:14:08.110"
+
+[[pf]]
+src = "这个机膜厂已经不care这些东西"
+dst = "基模厂已经不太关心这些东西"
+ts = "00:14:42.510 --> 00:14:44.110"
+
+[[pf]]
+src = "rise recursive improvement的一个循环"
+dst = "recursive self-improvement 的循环"
+ts = "00:15:19.250 --> 00:15:22.670"
+
+[[pf]]
+src = "ANTHROPIC要做一个这个wet lab"
+dst = "Anthropic 要做 wet lab"
+ts = "00:15:54.610 --> 00:15:58.160"
+
+[[pf]]
+src = "插进它的筋膜训练里"
+dst = "接入基模训练"
+ts = "00:16:17.230 --> 00:16:19.450"
+
+[[pf]]
+src = "AI生成的这个swap code"
+dst = "AI 生成的 slop code"
+ts = "00:17:24.759 --> 00:17:27.240"
+
+[[pf]]
+src = "我们的SPECIICATION，我们的implementation"
+dst = "我们的 specification 和 implementation"
+ts = "00:18:46.950 --> 00:18:50.130"
+
+[[pf]]
+src = "Minimum Minimum Viable product，一个MVP"
+dst = "minimum viable product，即 MVP"
+ts = "00:19:22.300 --> 00:19:25.300"
+
+[[pf]]
+src = "所有东西都是AI slap"
+dst = "所有东西都是 AI slop"
+ts = "00:20:11.960 --> 00:20:13.520"
+
+[[pf]]
+src = "把一个设备抽象成read write I/O control的一个接口"
+dst = "把设备抽象为 read、write、ioctl 一类接口"
+ts = "00:21:33.280 --> 00:21:36.340"
+
+[[pf]]
+src = "然后这就是一个self service"
+dst = "这就是一个自助服务系统（self-service）"
+ts = "00:22:14.340 --> 00:22:16.320"
+
+[[pf]]
+src = "那个标签它是一个碳粉袋，然后那个碳粉袋会加热"
+dst = "热转印标签用色带，经加热将颜料转印到标签上"
+ts = "00:24:04.170 --> 00:24:13.139"
+
+[[pf]]
+src = "他可以直接用这个PCL的驱动去一个一个generic的打印"
+dst = "它可以直接用 PCL 驱动，把设备当作通用打印机处理"
+ts = "00:24:55.399 --> 00:25:01.400"
+
+[[pf]]
+src = "最近也发布了豆宝手机，德宝手机"
+dst = "最近发布了豆包手机，豆包手机"
+ts = "00:25:23.670 --> 00:25:28.760"
+
+[[pf]]
+src = "如果我们有一个JB这样的模型，我觉得JEFF和豆宝手机真的是非常配"
+dst = "如果有 Jev 这样的模型，我觉得 Jev 和豆包手机非常配"
+ts = "00:25:38.480 --> 00:25:43.120"
+
+[[pf]]
+src = "在AIPRAI的时代是非常高的"
+dst = "在 AI 到来前的时代是非常高的"
+ts = "00:27:48.470 --> 00:27:51.950"
+
+[[pf]]
+src = "他自己prob了这个打印机的参数"
+dst = "它自己 probe 了打印机的参数"
+ts = "00:28:25.310 --> 00:28:28.910"
+
+[[pf]]
+src = "我的办公室里面有一个电子墨水瓶"
+dst = "我办公室里有一个电子墨水屏"
+ts = "00:29:37.540 --> 00:29:42.260"
+
+[[pf]]
+src = "我用cloud open4.6"
+dst = "我用 Claude Opus 4.6"
+ts = "00:29:54.660 --> 00:29:57.380"
+
+[[pf]]
+src = "IPHONE18pro采用了QLC的闪存颗粒"
+dst = "iPhone 18 Pro 采用了 QLC 闪存颗粒"
+ts = "00:31:18.499 --> 00:31:24.199"
+
+[[pf]]
+src = "那个silicon valley那个电视剧"
+dst = "电视剧《Silicon Valley》"
+ts = "00:32:03.090 --> 00:32:10.150"
+
+[[pf]]
+src = "LINUX那样的那样那样的人"
+dst = "像Linus那样的人"
+ts = "00:33:18.830 --> 00:33:24.540"
+
+[[pf]]
+src = "这个DPA的官员"
+dst = "DARPA的官员"
+ts = "00:34:00.590 --> 00:34:01.710"
+
+[[pf]]
+src = "这个达舍尔1957年在登记结婚的时候"
+dst = "Dijkstra在1957年登记结婚的时候"
+ts = "00:34:21.379 --> 00:34:24.719"
+
+[[pf]]
+src = "Boys like tomorrow school"
+dst = "《Boys’ Life》里的‘Tomorrow’s School’"
+ts = "00:35:20.760 --> 00:35:26.870"
+
+[[pf]]
+src = "boys life9月号"
+dst = "《Boys’ Life》1968年9月号"
+ts = "00:35:42.990 --> 00:35:49.669"
+
+[[pf]]
+src = "脑子里就是汇编对吧，go to"
+dst = "脑子里就是汇编、goto"
+ts = "00:36:08.570 --> 00:36:18.500"
+
+[[pf]]
+src = "那个时候其实camera scientist已经观察到了"
+dst = "那时computer scientists已经观察到了"
+ts = "00:39:10.490 --> 00:39:15.270"
+
+[[pf]]
+src = "这个DEXTRA的图灵奖的DEXTRA"
+dst = "Dijkstra"
+ts = "00:39:15.270 --> 00:39:21.480"
+
+[[pf]]
+src = "go to statement consider harmful"
+dst = "《Go To Statement Considered Harmful》"
+ts = "00:39:22.920 --> 00:39:27.960"
+
+[[pf]]
+src = "有他的这个train lecture……the humhumble programmer"
+dst = "他的图灵奖演讲《The Humble Programmer》"
+ts = "00:41:54.920 --> 00:42:05.820"
+
+[[pf]]
+src = "Nicely factor solutions"
+dst = "nicely factored solutions"
+ts = "00:43:05.960 --> 00:43:09.280"
+
+[[pf]]
+src = "1968年的时候有一个NATTO软件工程的会议"
+dst = "1968年有一次NATO软件工程会议"
+ts = "00:44:04.000 --> 00:44:08.700"
+
+[[pf]]
+src = "这个HAMILTON和他的团队"
+dst = "Margaret Hamilton和她的团队"
+ts = "00:44:20.610 --> 00:44:28.250"
+
+[[pf]]
+src = "Vista polo code 1969"
+dst = "阿波罗任务程序清单的标志性照片"
+ts = "00:44:39.100 --> 00:44:48.080"
+
+[[pf]]
+src = "2019年8月……把宇航员送上了月球"
+dst = "1969年7月，团队开发的软件帮助宇航员登上月球"
+ts = "00:45:11.510 --> 00:45:19.160"
+
+[[pf]]
+src = "写他的SERGEONS，写specifications"
+dst = "写assertions和specifications"
+ts = "00:45:32.240 --> 00:45:38.420"
+
+[[pf]]
+src = "deep sk flash"
+dst = "DeepSeek Flash"
+ts = "00:46:16.200 --> 00:46:21.130"
+
+[[pf]]
+src = "I trio e"
+dst = "IEEE"
+ts = "00:49:04.010 --> 00:49:08.540"
+
+[[pf]]
+src = "online价值"
+dst = "Online Judge"
+ts = "00:48:54.030 --> 00:48:56.830"
+
+[[pf]]
+src = "A systematic discipline qualify Approach to the development operation and maintenance of software That is application of engineering"
+dst = "The application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software; that is, the application of engineering to software"
+ts = "00:49:08.540 --> 00:49:17.550"
+
+[[pf]]
+src = "intent spec information这样的gap"
+dst = "intent、specification和implementation之间的gap"
+ts = "00:50:14.810 --> 00:50:20.310"
+
+[[pf]]
+src = "回到这个PRIERM时代"
+dst = "回到pre-LLM时代"
+ts = "00:50:12.370 --> 00:50:18.650"
+
+[[pf]]
+src = "空的ripple，空的rap"
+dst = "空repo"
+ts = "00:51:10.090 --> 00:51:16.230"
+
+[[pf]]
+src = "WINSTONROYCE的imagine the development of large software systems"
+dst = "Winston W. Royce的《Managing the Development of Large Software Systems》"
+ts = "00:51:40.639 --> 00:51:45.160"
+
+[[pf]]
+src = "这个图一个waterfall model"
+dst = "这幅图是waterfall model"
+ts = "00:52:32.640 --> 00:52:39.440"
+
+[[pf]]
+src = "后被称为瀑布模型的原始出处，也是被误读最严重的一天"
+dst = "后被称为瀑布模型的原始出处，也是被误读最严重的一篇"
+ts = "00:55:30.440 --> 00:55:35.560"
+
+[[pf]]
+src = "preliminary pilot program"
+dst = "preliminary pilot program"
+ts = "00:58:39.920 --> 00:58:46.720"
+
+[[pf]]
+src = "minimum viable product"
+dst = "minimum viable product（MVP）"
+ts = "00:59:03.080 --> 00:59:07.720"
+
+[[pf]]
+src = "suffer development model"
+dst = "software development model"
+ts = "00:59:12.820 --> 00:59:20.750"
+
+[[pf]]
+src = "web coding的时代"
+dst = "vibe coding时代"
+ts = "00:59:20.750 --> 00:59:25.530"
+
+[[pf]]
+src = "这个paper，Managing the development of large sofer systems"
+dst = "这篇《Managing the Development of Large Software Systems》"
+ts = "01:06:56.420 --> 01:07:03.060"
+
+[[pf]]
+src = "TDD叫test driven development"
+dst = "TDD，即test-driven development"
+ts = "01:05:02.169 --> 01:05:10.230"
+
+[[pf]]
+src = "缺陷被发现的时间越晚它带来的反攻代价就越大"
+dst = "缺陷发现得越晚，返工代价越大"
+ts = "01:05:39.570 --> 01:05:47.240"
+
+[[pf]]
+src = "这是three twice"
+dst = "这是do it twice"
+ts = "01:07:29.550 --> 01:07:31.150"
+
+[[pf]]
+src = "rose的这个pilot的model"
+dst = "Royce的pilot model"
+ts = "01:09:16.890 --> 01:09:21.260"
+
+[[pf]]
+src = "ROIS的模型"
+dst = "Royce的模型"
+ts = "01:09:32.290 --> 01:09:39.370"
+
+[[pf]]
+src = "chain of salt"
+dst = "chain of thought"
+ts = "01:10:04.990 --> 01:10:07.740"
+
+[[pf]]
+src = "CHAS是一个我觉得很有意思的机制"
+dst = "chain of thought是一个我觉得很有意思的机制"
+ts = "01:10:27.199 --> 01:10:30.440"
+
+[[pf]]
+src = "这就解释了为什么cos的很高"
+dst = "这就解释了为什么cost很高"
+ts = "01:11:31.940 --> 01:11:36.010"
+
+[[pf]]
+src = "camera science"
+dst = "computer science"
+ts = "01:12:02.359 --> 01:12:04.939"
+
+[[pf]]
+src = "不要一次性的产生大量的DEFEN性"
+dst = "不要一次产生大量dependency"
+ts = "01:12:42.220 --> 01:12:45.330"
+
+[[pf]]
+src = "用breakfast search的方式构建软件"
+dst = "用breadth-first search的方式构建软件"
+ts = "01:12:50.120 --> 01:12:53.320"
+
+[[pf]]
+src = "我们变成一个def search"
+dst = "我们变成一个depth-first search"
+ts = "01:12:55.480 --> 01:12:59.130"
+
+[[pf]]
+src = "minimal viable product"
+dst = "Minimum Viable Product"
+ts = "01:13:02.170 --> 01:13:07.570"
+
+[[pf]]
+src = "瀑布模型里面其实有inside的"
+dst = "瀑布模型里面其实有insight的"
+ts = "01:13:38.930 --> 01:13:40.950"
+
+[[pf]]
+src = "每一个intact都会拆成好多个小点"
+dst = "每一个intent都会拆成好多个小点"
+ts = "01:14:09.050 --> 01:14:11.850"
+
+[[pf]]
+src = "有了代码以后，里面有没有这个bad smile"
+dst = "有了代码以后，里面有没有这个code smell"
+ts = "01:17:08.410 --> 01:17:11.560"
+
+[[pf]]
+src = "在GP6发这个学会省token以后"
+dst = "在GPT-6学会省token以后"
+ts = "01:17:28.200 --> 01:17:32.650"
+
+[[pf]]
+src = "尤其是在大圆模型时代之前"
+dst = "尤其是在大语言模型时代之前"
+ts = "01:18:58.260 --> 01:19:00.280"
+
+[[pf]]
+src = "从intent到spec到INVENTATION之间"
+dst = "从intent到spec到implementation之间"
+ts = "01:21:40.460 --> 01:21:46.230"
+
+[[pf]]
+src = "我们是button map的"
+dst = "我们是bottom-up的"
+ts = "01:21:51.450 --> 01:21:52.690"
+
+[[pf]]
+src = "比如说pick check"
+dst = "比如说QuickCheck"
+ts = "01:24:15.380 --> 01:24:17.739"
+
+[[pf]]
+src = "不要有now pointer，资源不能泄露"
+dst = "不能出现空指针、不能泄漏资源"
+ts = "01:24:41.340 --> 01:24:45.580"
+
+[[pf]]
+src = "证明秦刷化的证明"
+dst = "给出形式化证明"
+ts = "01:25:15.589 --> 01:25:18.609"
+
+[[pf]]
+src = "TRACABILITY"
+dst = "traceability"
+ts = "01:25:32.390 --> 01:25:35.490"
+
+[[pf]]
+src = "data defencies graph"
+dst = "data dependency graph"
+ts = "01:25:42.360 --> 01:25:46.400"
+
+[[pf]]
+src = "杠dogs下的什么什么什么点MD，然后source下载一个什么什么点ts"
+dst = "docs/下的Markdown文件，然后src/下的TypeScript文件"
+ts = "01:25:57.350 --> 01:26:05.430"
+
+[[pf]]
+src = "deep pick算，我觉得deep seek绝对算是一个相当资深的码农"
+dst = "DeepSeek，我觉得DeepSeek绝对算是相当资深的码农"
+ts = "01:27:34.450 --> 01:27:40.450"
+
+[[pf]]
+src = "你马上就可以有2500并发的底薪"
+dst = "你马上就可以有2500并发的DeepSeek"
+ts = "01:27:42.990 --> 01:27:46.809"
+
+[[pf]]
+src = "这个IFL的这个语言"
+dst = "Eiffel语言"
+ts = "01:28:18.670 --> 01:28:21.309"
+
+[[pf]]
+src = "霍尔三人组"
+dst = "霍尔三元组"
+ts = "01:28:26.140 --> 01:28:29.740"
+
+[[pf]]
+src = "因为恋爱来了"
+dst = "因为AI来了"
+ts = "01:30:27.530 --> 01:30:30.120"
+
+[[pf]]
+src = "比如dafany virus这些形式化验证的工具"
+dst = "比如Dafny、Verus这些形式化验证工具"
+ts = "01:30:49.200 --> 01:30:54.220"
+
+[[pf]]
+src = "程序里面有个SERT，然后这个search就随便你写的search也可以写"
+dst = "程序里面有个assert，这个assert随便写，也可以写前后置条件"
+ts = "01:31:38.780 --> 01:31:44.750"
+
+[[pf]]
+src = "这种property base test"
+dst = "这种property-based testing"
+ts = "01:32:15.200 --> 01:32:17.340"
+
+[[pf]]
+src = "Unified modeling language"
+dst = "Unified Modeling Language"
+ts = "01:32:35.660 --> 01:32:37.440"
+
+[[pf]]
+src = "大脑的latin space"
+dst = "大脑的latent space"
+ts = "01:33:14.590 --> 01:33:17.450"
+
+[[pf]]
+src = "比如说你们可能学过IPU，就打比方类图"
+dst = "比如说你们可能学过UML，就打比方类图"
+ts = "01:34:40.570 --> 01:34:43.559"
+
+[[pf]]
+src = "但是UML9消除了这个其在最大程度减少"
+dst = "但是UML在最大程度上减少了"
+ts = "01:35:14.900 --> 01:35:26.410"
+
+[[pf]]
+src = "每个agent的读50页"
+dst = "每个Agent读50页"
+ts = "01:37:10.830 --> 01:37:13.390"
