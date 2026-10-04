@@ -1,3 +1,11 @@
+# 2026-10-04 第二轮复查：逐段对照 https://jyywiki.cn/GSE/2026/lect7.md
+# 保留字幕中的课堂顺序、演示与讲者判断，不把讲义新增的例子补写为口述。
+# Matt Pocock / grill-me：https://github.com/mattpocock/skills/blob/main/docs/productivity/grill-me.md
+# Grok Bot：https://forum.cursor.com/t/introducing-grok-bot/168053
+# Dijkstra 引文：https://www.cs.utexas.edu/~EWD/transcriptions/EWD02xx/EWD249/EWD249.html
+# Steele 三项语言扩展建议：https://langev.com/pdf/steele99growing.pdf （第 9、13 页）
+# pay_payroll 函数名、复式记账的借贷合计含义：由 lec7 讲义明确。
+
 [[pf]]
 src = "需求和价格其实有的时候是分不开的"
 dst = "需求和架构"
@@ -145,7 +153,7 @@ ts = "00:32:17.520 --> 00:32:18.800"
 
 [[pf]]
 src = "唉你看好这个react scary和fiber啊；fiber架构对吧"
-dst = "React；Fiber 架构"
+dst = "React Scheduler 和 Fiber 架构（Scheduler 依上下文暂订，疑点保留）"
 ts = "00:32:29.180 --> 00:32:35.760"
 
 [[pf]]
@@ -480,7 +488,7 @@ ts = "01:28:43.230 --> 01:28:45.580"
 
 [[pf]]
 src = "我可以我可以给这个PAYRO加上一个参数；加上一个参数；然后就他就可以得到一个payroll；相当于是这个参数state已经确定了；然后剩下的剩下的这样的一个一个函数；一个函数编程里面非常常用的呃"
-dst = "payroll；先固定 state 参数；函数式编程"
+dst = "pay_payroll；先固定 state 参数；函数式编程"
 ts = "01:28:53.910 --> 01:29:07.810"
 
 [[pf]]
@@ -557,3 +565,28 @@ ts = "01:39:20.040 --> 01:39:27.590"
 src = "为什么我们要做做一般source啊"
 dst = "event sourcing"
 ts = "01:39:35.760 --> 01:39:38.700"
+
+[[pf]]
+src = "还是你今天可能会用那种map cococ的那种；grill me的skill"
+dst = "Matt Pocock 的 grill-me skill"
+ts = "00:05:59.370 --> 00:06:03.740"
+
+[[pf]]
+src = "我我让我的grog bot呃；cursor送了一些group bot bot额度"
+dst = "Grok Bot；Cursor 提供使用额度"
+ts = "00:17:51.150 --> 00:17:55.500"
+
+[[pf]]
+src = "所以这里面i have a very small head；And i had better to learn to live with it；And to respect my limitations and give them；Full credit；Rather than trying to ignore or them"
+dst = "自己的脑袋很小，应学会接受、尊重并充分承认局限，而不是忽略它"
+ts = "00:19:56.889 --> 00:20:06.120"
+
+[[pf]]
+src = "talk这个呃他是scheme的设计者；对他是scheme的设计者；也是这个java language specification的合作合作者"
+dst = "Guy L. Steele Jr.，Scheme 的设计者之一、Java Language Specification 合作者"
+ts = "00:34:31.540 --> 00:34:42.090"
+
+[[pf]]
+src = "他要求每一笔交易都同时计入；两个或者以上的账户；且金额相等；方向相反对吧"
+dst = "一笔交易同时记入两个或更多账户，借贷金额合计相等、记账方向相反"
+ts = "01:23:43.309 --> 01:23:53.830"
