@@ -1,0 +1,135 @@
+[[db]]
+src = "因为我们从第几节课；杰克就开始说呃"
+ts = "00:00:08.430 --> 00:00:11.320"
+
+[[db]]
+src = "还是你今天可能会用那种map cococ的那种；grill me的skill"
+ts = "00:05:59.370 --> 00:06:03.740"
+
+[[db]]
+src = "你到底要怎么做authentication；这搞3ICATION；你是接入一个第三方的那种微信公众号的认证"
+ts = "00:06:16.190 --> 00:06:22.849"
+
+[[db]]
+src = "他没有一个可能也可以；也可以有一个这个从顶到上的理由的设计对吧"
+ts = "00:09:23.780 --> 00:09:28.540"
+
+[[db]]
+src = "这是may note some data structure；这是；叫结构化；结构化程序设计"
+ts = "00:14:57.540 --> 00:15:06.720"
+
+[[db]]
+src = "我我让我的grog bot呃；cursor送了一些group bot bot额度"
+ts = "00:17:51.150 --> 00:17:55.500"
+
+[[db]]
+src = "所以这里面i have a very small head；And i had better to learn to live with it；And to respect my limitations and give them；Full credit；Rather than trying to ignore or them"
+ts = "00:19:56.889 --> 00:20:06.120"
+
+[[db]]
+src = "那个时候你看几乎没有它没有现成的呃；现现成的模型嗯"
+ts = "00:25:15.270 --> 00:25:19.889"
+
+[[db]]
+src = "你看hold weight；activate和simulate"
+ts = "00:31:06.700 --> 00:31:09.220"
+
+[[db]]
+src = "唉你看好这个react scary和fiber啊"
+ts = "00:32:29.180 --> 00:32:34.060"
+
+[[db]]
+src = "interface trade protocol TCP IP呃"
+ts = "00:33:24.390 --> 00:33:29.130"
+
+[[db]]
+src = "比如说呃我刚才讲的system softw；你你读PHD的话；在我这里读的话；你得把它啊把它多多少少都都读了"
+ts = "00:33:50.180 --> 00:33:57.440"
+
+[[db]]
+src = "比如说呃呃你没用过brain 对吧；那就完全无法写啊对吧；也没有效；所以"
+ts = "00:38:59.180 --> 00:39:06.960"
+
+[[db]]
+src = "他主主张只加三样这个圆工具泛型泛型很重要；没有泛型；你构造抽象的时候；你写得像C那样对吧；或者早期的java那样那样嗯；到处都有强制类型转换呃；然后运算符重载诶；这个好像呃java到至今都没有没有没有加入啊；轻量用户自定义类；然后这个这个这个现在是是有的啊"
+ts = "00:44:08.129 --> 00:44:35.490"
+
+[[db]]
+src = "师兄又发表了一篇self的文章"
+ts = "00:47:42.340 --> 00:47:44.520"
+
+[[db]]
+src = "在应该是1983年的时候引入引入UNIX的"
+ts = "00:51:01.110 --> 00:51:04.150"
+
+[[db]]
+src = "动态的动态链接这个库的索引啊"
+ts = "00:51:18.010 --> 00:51:22.630"
+
+[[db]]
+src = "当然你们也可能看过那个叫unix hater sky"
+ts = "00:51:40.160 --> 00:51:42.560"
+
+[[db]]
+src = "比如说SAAWK这种工具呃"
+ts = "00:52:03.120 --> 00:52:05.410"
+
+[[db]]
+src = "A relation model of data is；A basis for protecting user from；Formatted data system from the potentially disruptive changing data；Representation；Caused by growth in the data bank and changes in traffic"
+ts = "00:55:07.540 --> 00:55:18.390"
+
+[[db]]
+src = "所以那个时候我们IP一下电影"
+ts = "01:01:39.470 --> 01:01:41.250"
+
+[[db]]
+src = "Cop cop nis"
+ts = "01:04:15.530 --> 01:04:16.790"
+
+[[db]]
+src = "就是一个single point of；当前对当前世界的knowledge；谁选了什么课；有哪些订单啊；然后will是一个visual representation of its model；所以所谓的will就是我要看到的will是一个function of；然后这个function是个pure function"
+ts = "01:11:25.810 --> 01:11:46.470"
+
+[[db]]
+src = "A controller is the link between a user and the system；It provides user is input by a drain for relevant；Wheels to present in property places of spring；然后output by prison user with manuals；Are the meanings of giving commands and data"
+ts = "01:11:58.090 --> 01:12:10.640"
+
+[[db]]
+src = "will里当然也可以绑定这个状态呃"
+ts = "01:16:01.200 --> 01:16:03.750"
+
+[[db]]
+src = "我把这个数据库擦掉了啊；我的dom tree就等于function of；这个你能不能就直接写定义这个函数；我定义一个pure方程；一个没有任何副作用的函数；我我输入这个；我输入当前的所有的界面上面的状态；然后我就可以把这个盗墓车给算出来"
+ts = "01:16:17.830 --> 01:16:44.010"
+
+[[db]]
+src = "这个表里面有一列叫做STATI；然后CD里面有一个有一再；比如有一个一就代表是在这个下单对吧；如果是一是下单；二是库存；三是什么什么什么；或者你可以把它呃展开来对吧；order你也可以order展开来；比如说呃是不是是不是下单库存支付；有没有支付对吧；然后比如说他有一个go go go go go好"
+ts = "01:20:29.430 --> 01:21:05.210"
+
+[[db]]
+src = "他要求每一笔交易都同时计入；两个或者以上的账户；且金额相等；方向相反对吧"
+ts = "01:23:43.309 --> 01:23:53.830"
+
+[[db]]
+src = "我也必须要在这里面写一个persistence啊；就是说我要允许什么什么什么毕业"
+ts = "01:27:48.700 --> 01:27:54.080"
+
+[[db]]
+src = "我可以我可以给这个PAYRO加上一个参数；加上一个参数；然后就他就可以得到一个payroll；相当于是这个参数state已经确定了；然后剩下的剩下的这样的一个一个函数"
+ts = "01:28:53.910 --> 01:29:05.050"
+
+[[db]]
+src = "那本来你最后那个题空着的；还给了你20分；然后好的；这下好了；他查了卷子；只能把这二分扣掉"
+ts = "01:31:27.920 --> 01:31:34.630"
+
+[[db]]
+src = "因为你这门课从挂了以后；你的学分数要减一"
+ts = "01:31:46.450 --> 01:31:52.559"
+
+[[db]]
+src = "我可以把它修改过来；我们不会付出任何的代价对吧；这个翻译错我就直接把它改正就就可以了"
+ts = "01:33:20.480 --> 01:33:26.080"
+
+[[db]]
+src = "比如说像刚才呃我说的超额选课呃；选选课这个呃；选课你影响其他的其他的课程"
+ts = "01:33:28.859 --> 01:33:42.080"
