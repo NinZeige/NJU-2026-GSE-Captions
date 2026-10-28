@@ -1,4 +1,9 @@
-# 第09讲初稿：仅记录有歧义的识别更正；常规去重、标点及人称修正不记。
+# 2026-10-28 第二轮：对照 https://jyywiki.cn/GSE/2026/lect9.md 逐段复查。
+# 保留课堂演示、判断及顺序，不将讲义新增内容补入口述。
+# grill-with-docs：https://github.com/mattpocock/skills/blob/main/docs/engineering/grill-with-docs.md
+# systemPrompt：https://github.com/deepseek-ai/deepseek-harness/blob/master/packages/core/system-prompt/src/index.ts
+# agent/assistant-stream：https://github.com/deepseek-ai/deepseek-harness/blob/master/packages/bundle/headless/src/index.ts
+# 仅记录有歧义的识别更正；常规去重、标点及人称修正不记。
 
 [[pf]]
 src = "ANTHROPIC说呃get it他们已经不够用了对吧"
@@ -79,6 +84,11 @@ ts = "00:07:56.620 --> 00:07:57.300"
 src = "有一个网站叫open street map"
 dst = "有个网站叫 OpenStreetMap"
 ts = "00:08:19.600 --> 00:08:22.179"
+
+[[pf]]
+src = "像像他们不管是用GB t office还是就deep sick"
+dst = "不管用 GPT、Opus 还是 DeepSeek"
+ts = "00:09:32.660 --> 00:09:36.260"
 
 [[pf]]
 src = "他们说deep sick flash的新版的这种图形能力很强"
@@ -441,6 +451,11 @@ dst = "它给了 Cordis 的权限"
 ts = "00:58:45.219 --> 00:58:48.819"
 
 [[pf]]
+src = "啊我还是要因为我为了快我把F2调成off了"
+dst = "为了快，我把思考强度调成 off 了"
+ts = "01:00:10.840 --> 01:00:15.390"
+
+[[pf]]
 src = "挑一个漏"
 dst = "调一个 low"
 ts = "01:00:15.390 --> 01:00:16.570"
@@ -549,6 +564,16 @@ ts = "01:21:10.560 --> 01:21:11.980"
 src = "然后这个DSL可以生成一个DF啊"
 dst = "让这个 DSL 生成一个 div"
 ts = "01:21:59.580 --> 01:22:03.170"
+
+[[pf]]
+src = "c context点system prompt的一个呃事件"
+dst = "ctx.systemPrompt 的一个事件"
+ts = "01:22:24.630 --> 01:22:28.709"
+
+[[pf]]
+src = "Assistant the stream"
+dst = "agent/assistant-stream 事件"
+ts = "01:24:32.459 --> 01:24:34.059"
 
 [[pf]]
 src = "到这个ex calida的这个呃画布啊"
