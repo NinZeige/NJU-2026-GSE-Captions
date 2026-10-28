@@ -150,7 +150,7 @@ SWE-bench 是这个系列里知名度最高的工作之一，也有 Pro 等版�
 
 测试用例也不能说完美。我们仔细研究过 SWE-bench，它绝不是完美的 benchmark。很多任务是 fix 一个 bug，而 bug 来自代码源头的一些小设计问题，以至于要不停修。作为人类，我更倾向于 refactor 代码，而不是只 fix 这个 bug。但不管怎样，它是明确的任务，有明确反馈，能评估做得对不对，因此能评估大模型做好一件小事的能力。
 
-我们看看历史里的 Table 5。Claude 2、Claude 3 Opus 在当时都是顶流模型，虽然 Claude 只能声称自己在某些专业、垂直领域比 OpenAI 好一些，因为当时 OpenAI 的 GPT 如日中天，没有人能打过。你看这个惨不忍睹的比例：Claude 3 Opus 的 resolved rate 只有 3.779%，结论是完全不行。
+我们看看历史里的 Table 5。Claude 2、Claude 3 Opus 在当时都是顶流模型，虽然 Claude 只能声称自己在某些专业、垂直领域比 OpenAI 好一些，因为当时 OpenAI 的 GPT 如日中天，没有人能打过。你看这个惨不忍睹的比例：Claude 3 Opus 的 resolved rate 只有 3.79%，结论是完全不行。
 
 我觉得这个方向最有 vision 的地方，不是又做了一个 benchmark。听课的同学可能有人在课题组研究 benchmark，每年也能看到浩如烟海的 benchmark paper。但站在人类的高度回看，真正的问题是：做好这件小事，价值有多大？
 
@@ -162,7 +162,7 @@ SWE-bench 是这个系列里知名度最高的工作之一，也有 Pro 等版�
 
 软件发展到某个程度，也会有这样的情况：代码写得像 Slop，逻辑非常复杂，是因为设计时两个模块没解耦，写代码必须同时带着它们的状态，写出来就很恶心。为了评价方案，我们会把整个模块一起重构。重构完，bug 就消失了，那个 issue 根本不需要再 fix。
 
-小事解决后，还有刚才说的大事：终于有一天，做太多琐碎 bug fix，受不了了，开始重构。重构意味着架构变化，可能只是局部。代码总体有一个设计架构，可能很难改；比如 Claude 以前把 Bun 从 Zig 全部迁移到 Rust，是非常疯狂的事，竟然没有闹笑话。我当时觉得，这可以吗，不会留下两个非常糟糕的 bug 吗？没有。当然也与项目结构有关。如果迁的是 MySQL 这种，我估计就不行。
+小事解决后，还有刚才说的大事：终于有一天，做太多琐碎 bug fix，受不了了，开始重构。重构意味着架构变化，可能只是局部。代码总体有一个设计架构，可能很难改；比如以前用 Claude 把 Bun 从 Zig 全部迁移到 Rust，是非常疯狂的事，竟然没有闹笑话。我当时觉得，这可以吗，不会留下两个非常糟糕的 bug 吗？没有。当然也与项目结构有关。如果迁的是 MySQL 这种，我估计就不行。
 
 有顶层设计架构，也有每段代码里的架构。甚至一个函数写成 functional code，还是 imperative code，也是一种微架构。相对大的、达到 subsystem 级别的架构改变，应该什么时候发生，怎样才算好？这种任务首先在人类世界里就不多，非常稀疏，模型就没办法通过大量反馈信号或样本学到。
 
@@ -236,13 +236,13 @@ AI 编程迭代几轮，可能 A、B 的代码确实没有了，但“不要 C�
 
 我相信你们自己开发项目，不会做这么严格的检查。可能自己编译过，发现有个地方要改，改一下就 push 了。但真实项目为了防止 Agent 干这种事，还是会做各种检查：不同用途的 ID 不能因为都是字符串就混用；让同一份代码遵守同一套 Lint 规则。可以介绍一下项目对 Lint 的使用，在自动检查中会检查什么。
 
-你们学第一门程序设计课时，老师有没有教用 Lint 工具？我觉得不教，显然有很大的问题，就会让你们写出“A 等于空格一”这样的代码，过不了 Lint。
+你们学第一门程序设计课时，老师有没有教用 Lint 工具？我觉得不教，显然有很大的问题，就会让你们写出 `A= 1` 这样的代码，过不了 Lint。
 
 类型安全和异步正确性，可以检查丢失的 Promise、异步不回收、危险断言，以及 no-deprecated。自己的 hobby project 可以用不安全特性；但严格项目的某些包不允许引入 unsafe，比如 Rust 就可以加一条 rule，禁止使用 unsafe。第一次实现或 Agent 做实验性实现时可能用了，但它永远过不了 Lint 检查，推不到远端，必须再改，直到做好。
 
 `no-unused-vars` 是非常有用的 Lint 规则，对人有用，对机器现在也还好。变量定义了不用，很可能是 typo。你们都写过 `for` 循环里 i、j 混用的代码，比如定义 `int i, j`，循环里初始化、判断和递增时用错了变量，有一个 uninitialized，编译器和 Lint 都会报错。比如写了 `if (j)`，这些 i、j 的错误，Lint 可以帮你找到。还有 `prefer-const`、`no-var`、`no-unused-expressions` 和作用域检查。
 
-你看，还有很多严格要求：检查导出文档，每一个非第三方库的导出必须有 JSDoc；禁止硬编码 UI 文案；还有 runtime closure、domain graph、Cordis config 的验证等，都是和项目相关的。
+你看，还有很多严格要求：`verify-export-jsdoc`，每一个非第三方库的导出必须有 JSDoc；禁止硬编码 UI 文案；还有 `verify-runtime-closure`、`verify-client-domain-graph`、`verify-cordis-config` 等，都是和项目相关的。
 
 整个流程中，pre-commit 会做一系列检查，包括刚才说的 i18n 配对，中文、英文文档必须一致。如果不一致，commit hash 对不上，pre-commit 直接拒绝。Pre-push 做 type check，CI 做更复杂的检查，还有其他很多规则。
 
@@ -264,7 +264,7 @@ Excel 有一个智能填充功能，以前我上研究生课都会拿它当案�
 
 那时有一个非常热门、到今天还有人研究的技术，叫 counterexample-guided，跟今天和大语言模型交互很像。我给一个 spec，可能是刚才那样，但还有别的，比如 `f(4)=6`，只是还没告诉模型。模型先生成 `x + 1`，我就告诉它，对不起，`f(4)=6`。它再生成，可能就加一个 `if`，单独处理这个例子，其他时候返回 `x + 1`。这样就陷入一个问题：取什么样的 counterexample，才能让它生成正确程序？这很难。
 
-所以“番茄炒蛋不放蒜”是一个很糟糕的提示词。说不放蒜，就意味着还有同样重要的不放香菜、不放韭菜、不放辣椒。刚才看 DeepSeek Harness 有处理文档的 skill，大家可能也用过 unslop。如果写英文论文，这个 skill 非常有用。我不知道是不是 GPT 的口癖，到现在可能都有 ensuring、highlighting。以前写文章不用这些词，像 framing 有时也不太用，虽然严格说也没错。比如 ensure 就太重了，我们要谦虚一点，几乎不会 ensure something。还有 showcase，以及一些 AI vocabulary：additionally、interplay、intricate，还有“not just X but Y”。
+所以“番茄炒蛋不放蒜”是一个很糟糕的提示词。说不放蒜，就意味着还有同样重要的不放香菜、不放韭菜、不放辣椒。刚才看 DeepSeek Harness 有处理文档的 skill，大家可能也用过来自 Cursor 的 `unslop`。如果写英文论文，这个 skill 非常有用。我不知道是不是 GPT 的口癖，到现在可能都有 ensuring、highlighting。以前写文章不用这些词，像 framing 有时也不太用，虽然严格说也没错。比如 ensure 就太重了，我们要谦虚一点，几乎不会 ensure something。还有 showcase，以及一些 AI vocabulary：additionally、interplay、intricate，还有“not just X but Y”。
 
 这是典型的 counterexample-guided：观察到 AI 做 A、B、C、D、E，就要求它 not A、not B、not C、not D，但 high-level guideline 到底是什么，其实还不知道。
 

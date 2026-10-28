@@ -19,18 +19,20 @@
 - [07 - 需求和架构（2）](release/07-需求和架构（2）/README.md)
 - [08 - Agent Native 开发](release/08-Agent-Native开发/README.md)
 - [09 - DeepSeek Harness](release/09-DeepSeek-Harness/README.md)
+- [10 - 软件的演化](release/10-软件的演化/README.md)
 
 # 进度
 
 ✅ 表示已人工校对
 
-|课程|01|02|03|04|05|06|07|08|09|
-|--|--|--|--|--|--|--|--|--|--|
-|进度|✅|❌|❌|❌|❌|❌|❌|❌|❌|
+|课程|01|02|03|04|05|06|07|08|09|10|
+|--|--|--|--|--|--|--|--|--|--|--|
+|进度|✅|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 
 # 补充
 
 - `release` 供阅读，`tasks` 作为 Agent 工作记录。后续所有勘正都将于 `release/{lec-name}/README.md` 上进行
+- 原始字幕按课程在 `tasks` 目录本地归档，不纳入版本控制。
 - 使用 GPT-5.6 Sol 整理
 - 本人与 NJU 无任何关联
 

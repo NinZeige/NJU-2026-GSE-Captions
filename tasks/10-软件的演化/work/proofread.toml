@@ -1,4 +1,11 @@
-# 第10讲初稿：仅记录有歧义的识别更正；常规去重、标点及人称修正不记。
+# 2026-10-28 第二轮：对照 https://jyywiki.cn/GSE/2026/lect10.md 逐段复查。
+# 只核验口述，不将讲义中扩展的算法、架构案例和解释补入口述。
+# 船舶专名：https://jyywiki.cn/GSE/2026/p10/ships.html
+# 工程实践与检查脚本：https://jyywiki.cn/GSE/2026/p10/dsh-commits.html 和 https://jyywiki.cn/GSE/2026/p10/dsh-checks.html
+# SWE-bench 原论文 Table 5：https://arxiv.org/html/2310.06770v3#S5.T5
+# Bun 迁移：https://claude.com/blog/ai-code-migration 和 https://bun.sh/blog/bun-v1.4
+# Cursor unslop：https://github.com/cursor/plugins/blob/main/pstack/skills/unslop/SKILL.md
+# 仅记录有歧义的识别更正；常规去重、标点及人称修正不记。
 
 [[pf]]
 src = "今天我们继续来讲DPC harness"
@@ -336,6 +343,11 @@ dst = "Claude 2、Claude 3 Opus 在当时都是顶流模型"
 ts = "00:53:39.580 --> 00:53:45.460"
 
 [[pf]]
+src = "CLO3nos3.779的resort rate"
+dst = "Claude 3 Opus 的 resolved rate 只有 3.79%"
+ts = "00:54:05.530 --> 00:54:09.310"
+
+[[pf]]
 src = "我有个一手来的"
 dst = "一个 issue"
 ts = "00:55:07.800 --> 00:55:08.680"
@@ -354,6 +366,11 @@ ts = "00:56:23.820 --> 00:56:26.940"
 src = "我就会建一个ripple"
 dst = "建一个 repo"
 ts = "00:56:43.340 --> 00:56:44.500"
+
+[[pf]]
+src = "就有点像我们要把那个就像cloud最近也不是最近了一段时间以前把那个呃棒从ZIG全部迁移到rust"
+dst = "以前用 Claude 把 Bun 从 Zig 全部迁移到 Rust"
+ts = "00:57:58.000 --> 00:58:07.860"
 
 [[pf]]
 src = "比如说你的架构大改了改成一般soling了"
@@ -389,6 +406,11 @@ ts = "01:08:43.820 --> 01:08:47.069"
 src = "把可回放的绘画做成唯一的source对吧"
 dst = "把可回放的会话做成唯一的 source"
 ts = "01:09:30.000 --> 01:09:34.600"
+
+[[pf]]
+src = "一般source uh cordis"
+dst = "Event Sourcing、Cordis"
+ts = "01:09:34.600 --> 01:09:39.200"
 
 [[pf]]
 src = "然后嗯增加这些guage rail"
@@ -476,6 +498,11 @@ dst = "可以介绍一下项目对 Lint 的使用"
 ts = "01:24:12.320 --> 01:24:18.540"
 
 [[pf]]
+src = "这就会让你们写出这种什么A等于空格一"
+dst = "就会让你们写出 A= 1 这样的代码"
+ts = "01:24:40.380 --> 01:24:46.940"
+
+[[pf]]
 src = "如果一个变量定义了不用很有可能是type"
 dst = "变量定义了不用，很可能是 typo"
 ts = "01:26:00.110 --> 01:26:04.180"
@@ -491,9 +518,19 @@ dst = "prefer-const、no-var、no-unused-expressions"
 ts = "01:26:47.160 --> 01:26:50.620"
 
 [[pf]]
+src = "Very fi export Data is stock"
+dst = "verify-export-jsdoc"
+ts = "01:26:58.160 --> 01:26:59.920"
+
+[[pf]]
 src = "Js stock"
 dst = "JSDoc"
 ts = "01:27:08.080 --> 01:27:09.780"
+
+[[pf]]
+src = "Verify runtime Closure Climbdomain Graph Coris config"
+dst = "verify-runtime-closure、verify-client-domain-graph、verify-cordis-config"
+ts = "01:27:14.200 --> 01:27:18.320"
 
 [[pf]]
 src = "然后PREPUSH的时候会做tab check"
@@ -542,7 +579,7 @@ ts = "01:34:39.399 --> 01:34:42.430"
 
 [[pf]]
 src = "这是来自科学的on slap"
-dst = "unslop"
+dst = "这是来自 Cursor 的 unslop"
 ts = "01:35:38.490 --> 01:35:40.350"
 
 [[pf]]
