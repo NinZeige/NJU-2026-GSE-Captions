@@ -1,0 +1,566 @@
+# 第10讲初稿：仅记录有歧义的识别更正；常规去重、标点及人称修正不记。
+
+[[pf]]
+src = "今天我们继续来讲DPC harness"
+dst = "今天继续讲 DeepSeek Harness"
+ts = "00:00:00.220 --> 00:00:02.300"
+
+[[pf]]
+src = "用许愿的方式来外部各种各样的啊插件"
+dst = "用许愿的方式 vibe 各种插件"
+ts = "00:00:14.360 --> 00:00:17.200"
+
+[[pf]]
+src = "去证伪exponential time hypothesis的一个算法"
+dst = "一个证伪 Exponential Time Hypothesis 的算法"
+ts = "00:00:31.940 --> 00:00:36.120"
+
+[[pf]]
+src = "是某些有很多three set"
+dst = "是 3-SAT 等问题"
+ts = "00:00:40.849 --> 00:00:42.469"
+
+[[pf]]
+src = "P1和NP的关系对吧"
+dst = "P 和 NP 的关系"
+ts = "00:01:34.200 --> 00:01:37.070"
+
+[[pf]]
+src = "N是non deterministic对吧"
+dst = "N 是 nondeterministic"
+ts = "00:01:50.080 --> 00:01:51.600"
+
+[[pf]]
+src = "在一个非确定性的图形机上"
+dst = "在非确定性图灵机上"
+ts = "00:01:51.600 --> 00:01:53.320"
+
+[[pf]]
+src = "为什么p panomo time是一个"
+dst = "为什么 polynomial time 被认为"
+ts = "00:02:01.780 --> 00:02:04.590"
+
+[[pf]]
+src = "这个就叫比如说mp complete"
+dst = "NP-complete"
+ts = "00:02:07.030 --> 00:02:08.750"
+
+[[pf]]
+src = "比如说ram model对吧"
+dst = "比如 RAM Model"
+ts = "00:04:54.420 --> 00:04:55.500"
+
+[[pf]]
+src = "比如说load store加成的指令集"
+dst = "有 load、store、加、乘等指令"
+ts = "00:05:06.740 --> 00:05:09.520"
+
+[[pf]]
+src = "如果给你K部的k steps"
+dst = "允许计算机运行 k steps"
+ts = "00:05:33.539 --> 00:05:36.599"
+
+[[pf]]
+src = "或者或者某些呃职务"
+dst = "或者某些植物"
+ts = "00:07:15.650 --> 00:07:17.920"
+
+[[pf]]
+src = "刚好处在一个有守恒量的区别"
+dst = "恰好处于有守恒量的区域"
+ts = "00:08:31.850 --> 00:08:35.010"
+
+[[pf]]
+src = "所以我们我们的scaling log给我们带来了这个哈"
+dst = "scaling law 才给我们带来"
+ts = "00:08:44.350 --> 00:08:47.390"
+
+[[pf]]
+src = "比如说这个脱靠的输出呃"
+dst = "比如 tool call 的输出"
+ts = "00:10:24.150 --> 00:10:26.300"
+
+[[pf]]
+src = "南大河源有没有有没有开什么新店"
+dst = "南大和园有没有开新店"
+ts = "00:10:52.910 --> 00:10:56.210"
+
+[[pf]]
+src = "我都是让chat e p t帮我帮我找"
+dst = "就让 ChatGPT 帮忙找"
+ts = "00:11:05.070 --> 00:11:06.910"
+
+[[pf]]
+src = "首先你看的是fax"
+dst = "首先能看 facts"
+ts = "00:11:24.200 --> 00:11:25.930"
+
+[[pf]]
+src = "就有点那种思想刚硬的那种那种感觉"
+dst = "有点像思想钢印"
+ts = "00:14:10.430 --> 00:14:13.230"
+
+[[pf]]
+src = "如果我把我的所有的跟ChatGPT的traction"
+dst = "如果把我所有和 ChatGPT 的 trajectory"
+ts = "00:14:45.870 --> 00:14:48.030"
+
+[[pf]]
+src = "聊聊对agent TOS的看法"
+dst = "聊对 Agent OS 的看法"
+ts = "00:15:26.940 --> 00:15:28.540"
+
+[[pf]]
+src = "你们就可以少revert heck一点对吧"
+dst = "就能少一点 reward hack"
+ts = "00:18:19.490 --> 00:18:22.250"
+
+[[pf]]
+src = "and sophie和open AI就在讨论讨论这件事情"
+dst = "Anthropic 和 OpenAI 就在讨论这件事"
+ts = "00:19:20.830 --> 00:19:23.270"
+
+[[pf]]
+src = "创建进程span或者fork"
+dst = "通过 spawn 或 fork 创建进程"
+ts = "00:20:03.050 --> 00:20:04.930"
+
+[[pf]]
+src = "agent点inject inject"
+dst = "agent.inject"
+ts = "00:20:29.590 --> 00:20:31.330"
+
+[[pf]]
+src = "就像GRAPBOT那样的"
+dst = "像 Grok Bot 一样"
+ts = "00:21:21.630 --> 00:21:22.970"
+
+[[pf]]
+src = "然后DPC哈林是因为ever sina plugin嘛对吧"
+dst = "Everything is a plugin"
+ts = "00:21:45.080 --> 00:21:48.210"
+
+[[pf]]
+src = "包括你可以把模型的上海门口给proceed下来"
+dst = "包括把模型的上下文 persist 下来"
+ts = "00:21:55.440 --> 00:21:58.280"
+
+[[pf]]
+src = "然后管道给cloud gp对吧"
+dst = "再管道给 ChatGPT"
+ts = "00:23:05.080 --> 00:23:08.680"
+
+[[pf]]
+src = "但是呃就这样的用法一直都在呃眼眼镜当中呃"
+dst = "用法一直在演进"
+ts = "00:23:10.000 --> 00:23:16.950"
+
+[[pf]]
+src = "我去了一趟森DIEGO啊"
+dst = "去了 San Diego"
+ts = "00:24:08.300 --> 00:24:09.980"
+
+[[pf]]
+src = "他都有非常长的操作手段"
+dst = "有非常长的操作手册"
+ts = "00:26:34.320 --> 00:26:35.760"
+
+[[pf]]
+src = "呃桑塔玛瑞亚原来是一艘商船"
+dst = "Santa Maria 原来是商船"
+ts = "00:28:28.840 --> 00:28:31.440"
+
+[[pf]]
+src = "这个是new orleans呃"
+dst = "New Orleans"
+ts = "00:29:16.250 --> 00:29:18.250"
+
+[[pf]]
+src = "都是平滑眼镜的"
+dst = "都是平滑演进的"
+ts = "00:29:48.170 --> 00:29:49.810"
+
+[[pf]]
+src = "我们说呃everything is the same machine对吧"
+dst = "Everything is a state machine"
+ts = "00:29:54.150 --> 00:29:56.370"
+
+[[pf]]
+src = "不管是report还也好"
+dst = "不管 repo 也好"
+ts = "00:29:59.900 --> 00:30:02.620"
+
+[[pf]]
+src = "我们任何时候都只能往前做一个小的德尔塔"
+dst = "任何时候只能往前做一个小 delta"
+ts = "00:30:09.380 --> 00:30:13.740"
+
+[[pf]]
+src = "所以所以大家看到这个嗯弃船会啊"
+dst = "汽船越来越好"
+ts = "00:31:09.740 --> 00:31:13.530"
+
+[[pf]]
+src = "就是USLGLA的第一艘"
+dst = "美国第一艘航空母舰 USS Langley"
+ts = "00:31:33.650 --> 00:31:35.470"
+
+[[pf]]
+src = "它又是平滑眼镜的"
+dst = "又是平滑演进的"
+ts = "00:32:02.430 --> 00:32:03.750"
+
+[[pf]]
+src = "然后把船放在下面"
+dst = "飞机放在下面"
+ts = "00:33:12.080 --> 00:33:13.580"
+
+[[pf]]
+src = "这个是啊USSLGLA的啊"
+dst = "USS Langley 的"
+ts = "00:33:50.320 --> 00:33:53.940"
+
+[[pf]]
+src = "就证明了航母的呃航母用说"
+dst = "证明了航母的作用"
+ts = "00:34:11.739 --> 00:34:15.100"
+
+[[pf]]
+src = "像deep i honeys一样的啊一样的东西"
+dst = "像 DeepSeek Harness 一样的东西"
+ts = "00:36:13.770 --> 00:36:16.650"
+
+[[pf]]
+src = "chain of salt的模型"
+dst = "chain-of-thought 模型"
+ts = "00:36:51.200 --> 00:36:52.600"
+
+[[pf]]
+src = "就everything the same machine"
+dst = "Everything is a state machine"
+ts = "00:38:06.320 --> 00:38:07.400"
+
+[[pf]]
+src = "随着第三是complexity的增加"
+dst = "随着 essential complexity 增加"
+ts = "00:40:18.020 --> 00:40:20.029"
+
+[[pf]]
+src = "CNIS可能也不是一个非常好的例子"
+dst = "Kubernetes 可能也不是很好的例子"
+ts = "00:41:28.130 --> 00:41:30.710"
+
+[[pf]]
+src = "比如说00X0.1"
+dst = "比如 Linux 0.11"
+ts = "00:44:16.110 --> 00:44:17.310"
+
+[[pf]]
+src = "像像XP6"
+dst = "像 xv6"
+ts = "00:44:27.400 --> 00:44:28.760"
+
+[[pf]]
+src = "比如说在00X0.11的模型上面"
+dst = "比如在 Linux 0.11 的模型上"
+ts = "00:44:55.380 --> 00:44:57.580"
+
+[[pf]]
+src = "essential confess有交互有"
+dst = "Essential complexity 有交互"
+ts = "00:47:13.679 --> 00:47:15.679"
+
+[[pf]]
+src = "所以这解释了为什么呃我们在PRIERM的时代"
+dst = "这也解释了为什么 pre-LLM 时代"
+ts = "00:47:52.820 --> 00:47:58.259"
+
+[[pf]]
+src = "你们你们看到所有的投AI infrared的简历的"
+dst = "那些投 AI infra 的简历"
+ts = "00:48:11.300 --> 00:48:14.100"
+
+[[pf]]
+src = "同学都说我在什么NANOGBT"
+dst = "同学都说在 nano-gpt"
+ts = "00:48:14.100 --> 00:48:16.310"
+
+[[pf]]
+src = "NANOVRM上面改了一个什么东西"
+dst = "nano-vllm 上改了什么"
+ts = "00:48:16.310 --> 00:48:18.110"
+
+[[pf]]
+src = "或者一个什么那种2K3588这种"
+dst = "或者 RK3588 这种"
+ts = "00:48:25.530 --> 00:48:28.290"
+
+[[pf]]
+src = "软件就在这DPC harness就就在当前的状态啊"
+dst = "软件、DeepSeek Harness 就以当前状态摆在那里"
+ts = "00:49:11.670 --> 00:49:16.359"
+
+[[pf]]
+src = "你我们有好多的就get history就是一个宝藏"
+dst = "Git history 是一个宝藏"
+ts = "00:49:36.800 --> 00:49:42.179"
+
+[[pf]]
+src = "然后能不能就我不知道OpenAI或者ESHOP"
+dst = "我不知道 OpenAI 或 Anthropic"
+ts = "00:50:13.800 --> 00:50:16.440"
+
+[[pf]]
+src = "这SWEBENCH是整个系列当中"
+dst = "SWE-bench 是这个系列里"
+ts = "00:51:24.190 --> 00:51:27.800"
+
+[[pf]]
+src = "而不是WAFLOW"
+dst = "而不是 workflow"
+ts = "00:52:33.520 --> 00:52:34.840"
+
+[[pf]]
+src = "然后有一个golden patch"
+dst = "有一个 gold patch"
+ts = "00:52:48.840 --> 00:52:50.560"
+
+[[pf]]
+src = "还有一个january path patch"
+dst = "一个 generated patch"
+ts = "00:52:50.560 --> 00:52:51.800"
+
+[[pf]]
+src = "哎cloud二cloud3office在那个时候都是透明的模型对吧"
+dst = "Claude 2、Claude 3 Opus 在当时都是顶流模型"
+ts = "00:53:39.580 --> 00:53:45.460"
+
+[[pf]]
+src = "我有个一手来的"
+dst = "一个 issue"
+ts = "00:55:07.800 --> 00:55:08.680"
+
+[[pf]]
+src = "就意味着工程里面绝大部分TDS的事情"
+dst = "意味着工程里绝大部分 tedious 的事"
+ts = "00:55:39.020 --> 00:55:42.040"
+
+[[pf]]
+src = "我们在在infinity commit的时候"
+dst = "initial commit 时"
+ts = "00:56:23.820 --> 00:56:26.940"
+
+[[pf]]
+src = "我就会建一个ripple"
+dst = "建一个 repo"
+ts = "00:56:43.340 --> 00:56:44.500"
+
+[[pf]]
+src = "比如说你的架构大改了改成一般soling了"
+dst = "比如架构大改，改成 Event Sourcing"
+ts = "01:03:39.170 --> 01:03:43.500"
+
+[[pf]]
+src = "你可能从这次重复就到达不了你想要的目标"
+dst = "这次重构可能到不了目标"
+ts = "01:03:56.170 --> 01:03:59.290"
+
+[[pf]]
+src = "所以我觉得只要需要一个足够好的这个taste the bench啊对吧"
+dst = "所以我觉得，只要有一个足够好的 taste-bench"
+ts = "01:04:07.370 --> 01:04:11.230"
+
+[[pf]]
+src = "从帆船到弃船"
+dst = "从帆船到汽船"
+ts = "01:05:52.150 --> 01:05:55.290"
+
+[[pf]]
+src = "以源码形式wandering codis的框架包"
+dst = "以源码形式 vendor in Cordis 框架包"
+ts = "01:07:27.460 --> 01:07:30.560"
+
+[[pf]]
+src = "先实现LM的influence i an inference"
+dst = "先实现 LLM 的 inference"
+ts = "01:08:43.820 --> 01:08:47.069"
+
+[[pf]]
+src = "把可回放的绘画做成唯一的source对吧"
+dst = "把可回放的会话做成唯一的 source"
+ts = "01:09:30.000 --> 01:09:34.600"
+
+[[pf]]
+src = "然后嗯增加这些guage rail"
+dst = "再增加 guardrails"
+ts = "01:10:07.020 --> 01:10:11.540"
+
+[[pf]]
+src = "如果用浏览器这个框架加上一个domm tree"
+dst = "用浏览器框架加 DOM tree"
+ts = "01:10:37.580 --> 01:10:41.170"
+
+[[pf]]
+src = "他从这个RFC到AD r a en notes"
+dst = "从 RFC 到 ADR、Agent Notes"
+ts = "01:11:45.200 --> 01:11:49.990"
+
+[[pf]]
+src = "我是不是要把TY扔掉对吧"
+dst = "是不是要扔掉 TUI"
+ts = "01:12:43.000 --> 01:12:45.300"
+
+[[pf]]
+src = "然后直接到一个这个AD r r architecture啊Decision record record"
+dst = "最后形成 ADR，也就是 Architecture Decision Record"
+ts = "01:13:38.750 --> 01:13:43.830"
+
+[[pf]]
+src = "其他消息存在surface的事件里哦"
+dst = "其他消息存在 Session 的事件里"
+ts = "01:14:35.340 --> 01:14:38.680"
+
+[[pf]]
+src = "需要往历史里追加一条system road的消息"
+dst = "需要往历史里追加一条 system role 消息"
+ts = "01:15:01.120 --> 01:15:04.270"
+
+[[pf]]
+src = "去去想我应该grab什么东西"
+dst = "想应该 grep 什么"
+ts = "01:16:27.040 --> 01:16:29.080"
+
+[[pf]]
+src = "我当你打开unit share的时候"
+dst = "打开 UNIX Shell 时"
+ts = "01:16:43.350 --> 01:16:44.790"
+
+[[pf]]
+src = "竹文件百分之百的啊覆盖率"
+dst = "逐文件百分之百覆盖率"
+ts = "01:17:28.090 --> 01:17:30.490"
+
+[[pf]]
+src = "都没有办法阻止AI生成AI s lab对吧"
+dst = "都无法阻止 AI 生成 AI Slop"
+ts = "01:17:59.490 --> 01:18:03.530"
+
+[[pf]]
+src = "非常脏的一个杨某来杨某杨杨某来来处理啊"
+dst = "靠一个很脏的 YAML 来处理"
+ts = "01:19:16.160 --> 01:19:21.620"
+
+[[pf]]
+src = "然后有一大堆这个意义不明的呃YAO的文件"
+dst = "多了一大堆意义不明的 YAML 文件"
+ts = "01:19:28.750 --> 01:19:32.710"
+
+[[pf]]
+src = "刚才对激活了一个d d s h pro pro standard skill"
+dst = "激活了 dsh-prose-standard skill"
+ts = "01:20:57.770 --> 01:21:02.039"
+
+[[pf]]
+src = "有一有一点on slap的感觉对吧"
+dst = "有点 unslop 的感觉"
+ts = "01:21:21.640 --> 01:21:23.680"
+
+[[pf]]
+src = "rapport里面"
+dst = "repo 里"
+ts = "01:22:30.430 --> 01:22:31.270"
+
+[[pf]]
+src = "对我们可以介绍一下项目里对link的使用"
+dst = "可以介绍一下项目对 Lint 的使用"
+ts = "01:24:12.320 --> 01:24:18.540"
+
+[[pf]]
+src = "如果一个变量定义了不用很有可能是type"
+dst = "变量定义了不用，很可能是 typo"
+ts = "01:26:00.110 --> 01:26:04.180"
+
+[[pf]]
+src = "那这这有一个on on on initialize"
+dst = "有一个 uninitialized"
+ts = "01:26:32.080 --> 01:26:35.080"
+
+[[pf]]
+src = "Prefer const no variable No one use expressions"
+dst = "prefer-const、no-var、no-unused-expressions"
+ts = "01:26:47.160 --> 01:26:50.620"
+
+[[pf]]
+src = "Js stock"
+dst = "JSDoc"
+ts = "01:27:08.080 --> 01:27:09.780"
+
+[[pf]]
+src = "然后PREPUSH的时候会做tab check"
+dst = "Pre-push 做 type check"
+ts = "01:27:47.170 --> 01:27:49.130"
+
+[[pf]]
+src = "wonder的更新应该怎么处理"
+dst = "vendor 更新应该怎样处理"
+ts = "01:29:36.300 --> 01:29:38.840"
+
+[[pf]]
+src = "你你你你比如说你是做BUINFORMATICS的"
+dst = "比如你做 bioinformatics"
+ts = "01:30:24.500 --> 01:30:27.240"
+
+[[pf]]
+src = "我们还需要一个taste the bench呃"
+dst = "大事还需要 taste-bench"
+ts = "01:31:04.650 --> 01:31:07.879"
+
+[[pf]]
+src = "我我以前是做这个program cens的叫呃程序合成"
+dst = "我以前做 program synthesis，也就是程序合成"
+ts = "01:32:26.080 --> 01:32:30.530"
+
+[[pf]]
+src = "这叫programmed by examples"
+dst = "叫 programming by examples"
+ts = "01:33:58.189 --> 01:33:59.709"
+
+[[pf]]
+src = "这两个问题已经完全被大圆模型解决对吧"
+dst = "今天这两个问题已经完全被大语言模型解决"
+ts = "01:34:11.820 --> 01:34:14.700"
+
+[[pf]]
+src = "叫叫counter or example guided"
+dst = "叫 counterexample-guided"
+ts = "01:34:22.030 --> 01:34:24.330"
+
+[[pf]]
+src = "所以模型会生成一个2X加一"
+dst = "模型先生成 x + 1"
+ts = "01:34:39.399 --> 01:34:42.430"
+
+[[pf]]
+src = "这是来自科学的on slap"
+dst = "unslop"
+ts = "01:35:38.490 --> 01:35:40.350"
+
+[[pf]]
+src = "比如说影视这个就太重了"
+dst = "比如 ensure 就太重了"
+ts = "01:36:04.140 --> 01:36:05.820"
+
+[[pf]]
+src = "比如说像瓷瓶这样的这种统计信息"
+dst = "词频等统计信息"
+ts = "01:38:21.610 --> 01:38:25.610"
+
+[[pf]]
+src = "就不是确实我确实不要算但是你能不能看透不要算的本质是不要无关的东西"
+dst = "我确实不要蒜，但你能不能看透，‘不要蒜’的本质是不要无关的东西"
+ts = "01:39:17.410 --> 01:39:23.530"
+
+[[pf]]
+src = "但今年还做不到"
+dst = "今天还做不到"
+ts = "01:39:30.340 --> 01:39:31.820"
