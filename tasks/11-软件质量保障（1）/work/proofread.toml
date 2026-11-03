@@ -1,4 +1,12 @@
-# 第十一讲初稿：仅记录有歧义的识别更正；常规去重、标点、人称修正不记。
+# 2026-11-03 第二轮：对照 https://jyywiki.cn/GSE/2026/lect11.md 逐段复查。
+# 保留口述顺序、课堂演示及讲者判断，不补入讲义扩展但未实际口述的内容。
+# SWE-agent 与 ACI：https://arxiv.org/abs/2405.15793
+# Dijkstra 与 The Humble Programmer：https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html
+# Linux 统一清理出口的 goto 用法：https://www.kernel.org/doc/html/latest/process/coding-style.html#centralized-exiting-of-functions
+# 余子濠、NEMU 和第一期一生一芯的 2019 年份：https://ysyx.oscc.cc/slides/2607/01.html
+# syzkaller 与 OSS-Fuzz：https://github.com/google/syzkaller 和 https://github.com/google/oss-fuzz
+# San Mehat 的姓名依据本讲官方讲义；SD 卡英文引述仍保留待核。
+# 仅记录有歧义的识别更正；常规去重、标点、人称修正不记。
 
 [[pf]]
 src = "你GITHUB上好代码都有克隆下来"
@@ -252,7 +260,7 @@ ts = "00:27:19.400 --> 00:27:23.260"
 
 [[pf]]
 src = "对P的preference你reference就是use sufferingUse of free"
-dst = "再 reference p，就是 use-after-free"
+dst = "再 dereference p，就是 use-after-free"
 ts = "00:27:31.349 --> 00:27:36.030"
 
 [[pf]]
@@ -501,6 +509,11 @@ dst = "与这次 test failure 无关的部分"
 ts = "00:51:58.660 --> 00:52:02.360"
 
 [[pf]]
+src = "everything is stmach还是state transition"
+dst = "Everything is a state machine，还是 state transition"
+ts = "00:52:39.860 --> 00:52:41.720"
+
+[[pf]]
 src = "那正好就是我的bug的root cost"
 dst = "正好就是 bug 的 root cause"
 ts = "00:53:09.220 --> 00:53:11.200"
@@ -672,7 +685,7 @@ ts = "01:12:10.190 --> 01:12:14.070"
 
 [[pf]]
 src = "而且是一个派基本上没有没有skills的"
-dst = "而且是一个基本没有 skills 的 Pi"
+dst = "而且是一个基本没有 skills 的 pi"
 ts = "01:12:20.570 --> 01:12:23.250"
 
 [[pf]]
@@ -702,7 +715,7 @@ ts = "01:14:32.760 --> 01:14:35.000"
 
 [[pf]]
 src = "对你看他是一个CJS加手写的极简AABB"
-dst = "你看，它是一个 Three.js 加手写的极简 AABB"
+dst = "你看，它是一个 three.js 加手写的极简 AABB"
 ts = "01:16:03.120 --> 01:16:06.960"
 
 [[pf]]
