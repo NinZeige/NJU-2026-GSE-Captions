@@ -1,4 +1,11 @@
-# 第十二讲初稿：仅记录有歧义的识别更正，常规去重、标点、人称修正不记。
+# 第十二讲校对及讲义复查：仅记录有歧义的识别更正，常规去重、标点、人称修正不记。
+# 复查：https://jyywiki.cn/GSE/2026/lect12.md
+# Lean 命令核验：https://lean-lang.org/doc/reference/latest/Tactic-Proofs/Tactic-Reference/
+# 论文及案例核验：
+# https://www-formal.stanford.edu/jmc/towards/node6.html
+# https://gallium.inria.fr/~xleroy/publi/compcert-CACM.pdf
+# https://www.anthropic.com/research/formal-verification
+# https://www.usenix.org/legacy/publications/library/proceedings/osdi96/necula.html
 
 [[pf]]
 src = "调那个EMU的时候"
@@ -822,7 +829,7 @@ ts = "01:10:19.519 --> 01:10:22.079"
 
 [[pf]]
 src = "我那天就web了一下"
-dst = "那天我就 Vibe 了一下"
+dst = "那天我就 vibe 了一下"
 ts = "01:10:52.620 --> 01:10:55.520"
 
 [[pf]]
@@ -844,6 +851,11 @@ ts = "01:11:13.600 --> 01:11:15.440"
 src = "如果你是SERI的话"
 dst = "如果是 theorem"
 ts = "01:11:18.080 --> 01:11:19.280"
+
+[[pf]]
+src = "simplify only"
+dst = "simp only"
+ts = "01:11:26.390 --> 01:11:29.270"
 
 [[pf]]
 src = "你在这个令里面也能写"
@@ -1204,6 +1216,11 @@ ts = "01:30:59.880 --> 01:31:02.160"
 src = "供给系统"
 dst = "公理系统"
 ts = "01:31:09.100 --> 01:31:10.540"
+
+[[pf]]
+src = "霍尔逻辑"
+dst = "Hoare 逻辑"
+ts = "01:31:53.209 --> 01:31:56.129"
 
 [[pf]]
 src = "carry霍尔correspondence"
