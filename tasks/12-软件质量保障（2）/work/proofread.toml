@@ -1,0 +1,1241 @@
+# 第十二讲初稿：仅记录有歧义的识别更正，常规去重、标点、人称修正不记。
+
+[[pf]]
+src = "调那个EMU的时候"
+dst = "调 NEMU 的时候"
+ts = "00:00:12.730 --> 00:00:16.370"
+
+[[pf]]
+src = "如果他焊了"
+dst = "如果程序 hang 了"
+ts = "00:01:05.370 --> 00:01:06.370"
+
+[[pf]]
+src = "specification orange sertions"
+dst = "specification 和 assertions"
+ts = "00:01:33.900 --> 00:01:38.700"
+
+[[pf]]
+src = "dust two"
+dst = "Dust II"
+ts = "00:02:50.250 --> 00:02:52.090"
+
+[[pf]]
+src = "不同人有不同的仕途"
+dst = "不同人有不同的视图"
+ts = "00:05:30.340 --> 00:05:32.500"
+
+[[pf]]
+src = "问了一下GBT"
+dst = "问了一下 GPT"
+ts = "00:05:41.900 --> 00:05:43.340"
+
+[[pf]]
+src = "deep pick上上上上一次"
+dst = "DeepSeek 上一次"
+ts = "00:05:47.570 --> 00:05:50.800"
+
+[[pf]]
+src = "你就问GPTA能不能做一个"
+dst = "你就问 GPT，能不能做一个"
+ts = "00:06:05.180 --> 00:06:07.300"
+
+[[pf]]
+src = "模块节测试"
+dst = "模块级测试"
+ts = "00:06:07.300 --> 00:06:11.979"
+
+[[pf]]
+src = "GPU给我这个合理的答案"
+dst = "GPT 给了我一个合理的答案"
+ts = "00:06:15.540 --> 00:06:17.920"
+
+[[pf]]
+src = "justice file"
+dst = "justfile"
+ts = "00:06:25.450 --> 00:06:29.659"
+
+[[pf]]
+src = "Make fire"
+dst = "Makefile"
+ts = "00:06:37.270 --> 00:06:38.409"
+
+[[pf]]
+src = "mafia"
+dst = "Makefile"
+ts = "00:06:38.409 --> 00:06:40.089"
+
+[[pf]]
+src = "这个MAFI"
+dst = "这个 Makefile"
+ts = "00:06:40.089 --> 00:06:42.809"
+
+[[pf]]
+src = "the test system或者just a test呃unit啊be like"
+dst = "用 just 执行 system test 或者 unit test 之类的"
+ts = "00:06:43.909 --> 00:06:50.420"
+
+[[pf]]
+src = "deep sic web code"
+dst = "DeepSeek vibe code"
+ts = "00:07:08.440 --> 00:07:13.850"
+
+[[pf]]
+src = "这个deep pick模型"
+dst = "这个 DeepSeek 模型"
+ts = "00:07:19.810 --> 00:07:23.340"
+
+[[pf]]
+src = "这个DOS下的testing点MV里"
+dst = "docs/testing.md 里"
+ts = "00:07:42.740 --> 00:07:46.880"
+
+[[pf]]
+src = "DOS testing"
+dst = "docs/testing.md"
+ts = "00:07:46.880 --> 00:07:50.440"
+
+[[pf]]
+src = "justify"
+dst = "justfile"
+ts = "00:07:54.340 --> 00:07:55.480"
+
+[[pf]]
+src = "make fire"
+dst = "Makefile"
+ts = "00:07:55.480 --> 00:07:57.390"
+
+[[pf]]
+src = "single呃Source of truth"
+dst = "Single Source of Truth"
+ts = "00:07:59.010 --> 00:08:06.560"
+
+[[pf]]
+src = "rust的create"
+dst = "Rust 的 crate"
+ts = "00:08:22.880 --> 00:08:27.310"
+
+[[pf]]
+src = "cargo ttest"
+dst = "cargo test"
+ts = "00:08:35.970 --> 00:08:38.770"
+
+[[pf]]
+src = "justify"
+dst = "justfile"
+ts = "00:09:11.310 --> 00:09:15.740"
+
+[[pf]]
+src = "justify"
+dst = "justfile"
+ts = "00:09:15.740 --> 00:09:17.140"
+
+[[pf]]
+src = "justify"
+dst = "justfile"
+ts = "00:09:28.890 --> 00:09:31.670"
+
+[[pf]]
+src = "single呃Source of truth"
+dst = "Single Source of Truth"
+ts = "00:09:45.460 --> 00:09:48.640"
+
+[[pf]]
+src = "用另外一个因其实代码的方式"
+dst = "用另外一种代码的方式"
+ts = "00:10:42.030 --> 00:10:44.430"
+
+[[pf]]
+src = "多一个yo"
+dst = "多一个 YAML"
+ts = "00:10:57.620 --> 00:10:59.360"
+
+[[pf]]
+src = "点GITHUB"
+dst = ".github"
+ts = "00:11:00.280 --> 00:11:01.780"
+
+[[pf]]
+src = "点点GITHUB"
+dst = ".github"
+ts = "00:11:01.780 --> 00:11:03.760"
+
+[[pf]]
+src = "basil这样的构建系统"
+dst = "Bazel 这样的构建系统"
+ts = "00:11:23.150 --> 00:11:24.710"
+
+[[pf]]
+src = "这个BASI的"
+dst = "Bazel 的"
+ts = "00:11:28.110 --> 00:11:30.290"
+
+[[pf]]
+src = "DEXTRA"
+dst = "Dijkstra"
+ts = "00:12:40.400 --> 00:12:43.700"
+
+[[pf]]
+src = "testing show suppreis"
+dst = "Testing shows the presence"
+ts = "00:12:40.400 --> 00:12:43.700"
+
+[[pf]]
+src = "很多很多box"
+dst = "很多 bugs"
+ts = "00:12:45.340 --> 00:12:48.520"
+
+[[pf]]
+src = "ALANTURING"
+dst = "Alan Turing"
+ts = "00:13:38.940 --> 00:13:43.049"
+
+[[pf]]
+src = "instead of debuga programOne should proof that it means its specifications"
+dst = "Instead of debugging a program, one should prove that it meets its specifications"
+ts = "00:13:51.560 --> 00:13:57.170"
+
+[[pf]]
+src = "JMACI"
+dst = "McCarthy"
+ts = "00:14:01.570 --> 00:14:03.850"
+
+[[pf]]
+src = "麦ACI"
+dst = "McCarthy"
+ts = "00:14:03.850 --> 00:14:06.020"
+
+[[pf]]
+src = "john mcasi"
+dst = "John McCarthy"
+ts = "00:14:17.700 --> 00:14:20.510"
+
+[[pf]]
+src = "Jaman cathy"
+dst = "John McCarthy"
+ts = "00:15:22.730 --> 00:15:23.290"
+
+[[pf]]
+src = "数学SPECIICATION"
+dst = "数学 specification"
+ts = "00:15:23.290 --> 00:15:25.730"
+
+[[pf]]
+src = "ting到这个冯诺伊曼"
+dst = "Turing、冯·诺伊曼"
+ts = "00:15:27.450 --> 00:15:30.890"
+
+[[pf]]
+src = "piano的算术"
+dst = "Peano 算术"
+ts = "00:16:26.520 --> 00:16:29.420"
+
+[[pf]]
+src = "书写严格"
+dst = "数学严格"
+ts = "00:16:48.840 --> 00:16:50.860"
+
+[[pf]]
+src = "新刷方法"
+dst = "形式化方法"
+ts = "00:16:52.410 --> 00:16:55.630"
+
+[[pf]]
+src = "新创方法"
+dst = "形式化方法"
+ts = "00:16:55.630 --> 00:17:00.170"
+
+[[pf]]
+src = "唐尼霍尔"
+dst = "Tony Hoare"
+ts = "00:17:11.730 --> 00:17:13.650"
+
+[[pf]]
+src = "And axiomatic basis for computer programming"
+dst = "An Axiomatic Basis for Computer Programming"
+ts = "00:17:28.089 --> 00:17:32.730"
+
+[[pf]]
+src = "An attempt is made to explore the logical foundation of computer programBy u use of techniqueWhich were first supply in the study of geometry"
+dst = "An attempt is made to explore the logical foundations of computer programming by use of techniques which were first applied in the study of geometry"
+ts = "00:17:40.620 --> 00:17:48.330"
+
+[[pf]]
+src = "And formal proof of a simple theory is displayed"
+dst = "And a formal proof of a simple theorem is displayed"
+ts = "00:18:00.840 --> 00:18:04.360"
+
+[[pf]]
+src = "霍尔三元组"
+dst = "Hoare 三元组"
+ts = "00:18:44.640 --> 00:18:46.640"
+
+[[pf]]
+src = "这个balance的binary search tree"
+dst = "一个 balanced binary search tree"
+ts = "00:21:52.320 --> 00:21:57.400"
+
+[[pf]]
+src = "比右边的要小对吧比如九七十这就是一个合法的数"
+dst = "比右边的要小，比如九、七、十，这就是一个合法的树"
+ts = "00:22:08.680 --> 00:22:13.520"
+
+[[pf]]
+src = "很多的surface"
+dst = "很多 assert"
+ts = "00:22:36.639 --> 00:22:39.259"
+
+[[pf]]
+src = "对任何一个节点都要SERT"
+dst = "对任何一个节点都要 assert"
+ts = "00:22:42.179 --> 00:22:45.440"
+
+[[pf]]
+src = "你你会要SERT一个这个P"
+dst = "你会要 assert，任何一个 p"
+ts = "00:22:56.910 --> 00:23:00.040"
+
+[[pf]]
+src = "任何一个P的parent的left等于P或者对吧P的parent对right等于P对吧"
+dst = "任何一个 p，p.parent.left == p 或者 p.parent.right == p"
+ts = "00:23:00.040 --> 00:23:17.660"
+
+[[pf]]
+src = "这样的search"
+dst = "这样的 assert"
+ts = "00:23:36.120 --> 00:23:38.630"
+
+[[pf]]
+src = "这样的SUSH"
+dst = "这样的 assert"
+ts = "00:23:38.630 --> 00:23:41.000"
+
+[[pf]]
+src = "P的value一定是大于啊P的left的对value"
+dst = "p.value > p.left.value"
+ts = "00:23:43.680 --> 00:23:53.520"
+
+[[pf]]
+src = "这样的SERTION"
+dst = "这样的 assertion"
+ts = "00:24:03.380 --> 00:24:06.600"
+
+[[pf]]
+src = "return p除以Q"
+dst = "return p / q"
+ts = "00:24:19.179 --> 00:24:23.230"
+
+[[pf]]
+src = "Q不等于零"
+dst = "q != 0"
+ts = "00:24:29.150 --> 00:24:31.639"
+
+[[pf]]
+src = "无可辨别的"
+dst = "无可辩驳地"
+ts = "00:25:11.069 --> 00:25:12.009"
+
+[[pf]]
+src = "一个是VOT"
+dst = "一个是 vote"
+ts = "00:26:41.610 --> 00:26:42.290"
+
+[[pf]]
+src = "一个平衡数"
+dst = "一棵平衡树"
+ts = "00:27:22.579 --> 00:27:25.850"
+
+[[pf]]
+src = "这个形状的话"
+dst = "形式化方法"
+ts = "00:28:33.589 --> 00:28:35.489"
+
+[[pf]]
+src = "Y等于REINPUT"
+dst = "y = input()"
+ts = "00:29:34.360 --> 00:29:36.620"
+
+[[pf]]
+src = "判断一个SERT"
+dst = "判断一个 assert"
+ts = "00:30:24.970 --> 00:30:27.690"
+
+[[pf]]
+src = "SERTY大于零"
+dst = "assert y > 0"
+ts = "00:30:28.210 --> 00:30:30.950"
+
+[[pf]]
+src = "霍尔三元组"
+dst = "Hoare 三元组"
+ts = "00:30:49.030 --> 00:30:51.110"
+
+[[pf]]
+src = "霍尔那个paper"
+dst = "Hoare 那个 paper"
+ts = "00:30:57.900 --> 00:30:59.780"
+
+[[pf]]
+src = "proof by bd force"
+dst = "proof by brute force"
+ts = "00:31:11.580 --> 00:31:14.570"
+
+[[pf]]
+src = "一个现成的调度"
+dst = "一个线程调度"
+ts = "00:31:36.960 --> 00:31:38.380"
+
+[[pf]]
+src = "霍尔三元组"
+dst = "Hoare 三元组"
+ts = "00:33:00.000 --> 00:33:02.160"
+
+[[pf]]
+src = "proof by blue forth"
+dst = "proof by brute force"
+ts = "00:33:08.600 --> 00:33:12.420"
+
+[[pf]]
+src = "BLUFALSE"
+dst = "brute force"
+ts = "00:33:19.800 --> 00:33:22.140"
+
+[[pf]]
+src = "MOCHIN"
+dst = "model checking"
+ts = "00:33:31.860 --> 00:33:34.060"
+
+[[pf]]
+src = "先灵"
+dst = "仙林"
+ts = "00:33:37.110 --> 00:33:39.750"
+
+[[pf]]
+src = "退B口"
+dst = "退币口"
+ts = "00:34:12.019 --> 00:34:13.039"
+
+[[pf]]
+src = "退B口"
+dst = "退币口"
+ts = "00:34:13.039 --> 00:34:14.059"
+
+[[pf]]
+src = "退避"
+dst = "退币"
+ts = "00:35:30.050 --> 00:35:31.170"
+
+[[pf]]
+src = "退避"
+dst = "退币"
+ts = "00:35:31.170 --> 00:35:32.770"
+
+[[pf]]
+src = "退避"
+dst = "退币"
+ts = "00:35:32.770 --> 00:35:34.290"
+
+[[pf]]
+src = "prove by BO false"
+dst = "proof by brute force"
+ts = "00:35:57.560 --> 00:36:00.120"
+
+[[pf]]
+src = "便利路径"
+dst = "遍历路径"
+ts = "00:36:00.120 --> 00:36:03.760"
+
+[[pf]]
+src = "breakfast search或者deferred search"
+dst = "breadth-first search 或者 depth-first search"
+ts = "00:36:18.970 --> 00:36:21.890"
+
+[[pf]]
+src = "自动或售货机"
+dst = "自动售货机"
+ts = "00:36:37.720 --> 00:36:41.230"
+
+[[pf]]
+src = "LAMPOT"
+dst = "Lamport"
+ts = "00:38:36.420 --> 00:38:37.860"
+
+[[pf]]
+src = "the existence suering fmmapping"
+dst = "The Existence of Refinement Mappings"
+ts = "00:38:37.860 --> 00:38:40.630"
+
+[[pf]]
+src = "The existence of refn mapping"
+dst = "The Existence of Refinement Mappings"
+ts = "00:39:41.980 --> 00:39:43.800"
+
+[[pf]]
+src = "也是lo的paper"
+dst = "也是 Lamport 的 paper"
+ts = "00:39:43.800 --> 00:39:45.020"
+
+[[pf]]
+src = "T r a plus"
+dst = "TLA+"
+ts = "00:41:18.600 --> 00:41:19.300"
+
+[[pf]]
+src = "兰伯特"
+dst = "Lamport"
+ts = "00:41:19.300 --> 00:41:20.540"
+
+[[pf]]
+src = "但是这个实践到底对不对呢"
+dst = "但是实现到底对不对呢"
+ts = "00:41:40.660 --> 00:41:42.520"
+
+[[pf]]
+src = "proof by brothforce"
+dst = "proof by brute force"
+ts = "00:42:49.600 --> 00:42:52.350"
+
+[[pf]]
+src = "搜索数"
+dst = "搜索树"
+ts = "00:43:03.760 --> 00:43:06.260"
+
+[[pf]]
+src = "搜索数"
+dst = "搜索树"
+ts = "00:43:06.260 --> 00:43:07.980"
+
+[[pf]]
+src = "搜索数"
+dst = "搜索树"
+ts = "00:44:29.740 --> 00:44:32.040"
+
+[[pf]]
+src = "搜索数"
+dst = "搜索树"
+ts = "00:44:32.040 --> 00:44:33.200"
+
+[[pf]]
+src = "if负Z大于五"
+dst = "if z > 5"
+ts = "00:44:43.370 --> 00:44:44.530"
+
+[[pf]]
+src = "ELS"
+dst = "else"
+ts = "00:45:00.990 --> 00:45:04.950"
+
+[[pf]]
+src = "解就解除了一条从头到尾的路径"
+dst = "解出了一条从头到尾的路径"
+ts = "00:45:56.050 --> 00:45:59.070"
+
+[[pf]]
+src = "SERT"
+dst = "assert"
+ts = "00:46:04.879 --> 00:46:06.079"
+
+[[pf]]
+src = "SERT"
+dst = "assert"
+ts = "00:46:07.719 --> 00:46:10.340"
+
+[[pf]]
+src = "SERT"
+dst = "assert"
+ts = "00:46:14.280 --> 00:46:18.200"
+
+[[pf]]
+src = "SERT"
+dst = "assert"
+ts = "00:46:19.160 --> 00:46:23.300"
+
+[[pf]]
+src = "a bot"
+dst = "abort"
+ts = "00:46:25.760 --> 00:46:26.740"
+
+[[pf]]
+src = "LVMIR"
+dst = "LLVM IR"
+ts = "00:46:58.940 --> 00:47:00.180"
+
+[[pf]]
+src = "LVMIR"
+dst = "LLVM IR"
+ts = "00:47:05.470 --> 00:47:06.530"
+
+[[pf]]
+src = "用解方程解方程的方法来解除"
+dst = "用解方程的方法解出"
+ts = "00:48:22.100 --> 00:48:24.910"
+
+[[pf]]
+src = "concert"
+dst = "CompCert"
+ts = "00:49:00.420 --> 00:49:02.650"
+
+[[pf]]
+src = "返回计算器"
+dst = "返回寄存器"
+ts = "00:49:40.630 --> 00:49:43.710"
+
+[[pf]]
+src = "直径到这个代码"
+dst = "执行到这个代码"
+ts = "00:51:02.680 --> 00:51:04.760"
+
+[[pf]]
+src = "proof of sistant"
+dst = "proof assistant"
+ts = "00:51:44.819 --> 00:51:50.219"
+
+[[pf]]
+src = "选择题前题"
+dst = "选择题、填空题"
+ts = "00:52:13.900 --> 00:52:15.980"
+
+[[pf]]
+src = "怎么着演示一下"
+dst = "怎么着掩饰一下"
+ts = "00:52:32.569 --> 00:52:35.240"
+
+[[pf]]
+src = "供能系统"
+dst = "证明系统"
+ts = "00:52:53.939 --> 00:52:55.799"
+
+[[pf]]
+src = "公里"
+dst = "公理"
+ts = "00:52:57.059 --> 00:52:59.420"
+
+[[pf]]
+src = "PROPHESIS"
+dst = "proof assistant"
+ts = "00:53:30.780 --> 00:53:33.520"
+
+[[pf]]
+src = "带证"
+dst = "待证"
+ts = "00:53:53.909 --> 00:53:56.089"
+
+[[pf]]
+src = "带证"
+dst = "待证"
+ts = "00:53:58.340 --> 00:53:59.000"
+
+[[pf]]
+src = "带证"
+dst = "待证"
+ts = "00:54:03.620 --> 00:54:05.269"
+
+[[pf]]
+src = "SERI"
+dst = "theorem"
+ts = "00:54:45.010 --> 00:54:47.850"
+
+[[pf]]
+src = "公里"
+dst = "公理"
+ts = "00:54:47.850 --> 00:54:49.150"
+
+[[pf]]
+src = "公里"
+dst = "公理"
+ts = "00:54:49.150 --> 00:54:51.200"
+
+[[pf]]
+src = "truth"
+dst = "choose"
+ts = "00:55:38.120 --> 00:55:39.880"
+
+[[pf]]
+src = "带证"
+dst = "待证"
+ts = "00:55:56.590 --> 00:56:02.660"
+
+[[pf]]
+src = "盖代证"
+dst = "待证"
+ts = "00:56:11.510 --> 00:56:17.470"
+
+[[pf]]
+src = "挣不下去了"
+dst = "证不下去了"
+ts = "00:56:32.220 --> 00:56:34.530"
+
+[[pf]]
+src = "证明就就拆除了"
+dst = "证明就 check 了"
+ts = "00:56:58.150 --> 00:57:00.110"
+
+[[pf]]
+src = "for x"
+dst = "∀x"
+ts = "00:57:32.750 --> 00:57:35.930"
+
+[[pf]]
+src = "带证"
+dst = "待证"
+ts = "00:58:24.200 --> 00:58:25.120"
+
+[[pf]]
+src = "带证"
+dst = "待证"
+ts = "00:58:43.170 --> 00:58:45.490"
+
+[[pf]]
+src = "innative step"
+dst = "inductive step"
+ts = "00:58:45.490 --> 00:58:48.650"
+
+[[pf]]
+src = "普sure system"
+dst = "proof system"
+ts = "00:59:50.940 --> 00:59:53.560"
+
+[[pf]]
+src = "proof sec"
+dst = "proof stack"
+ts = "01:00:20.420 --> 01:00:23.659"
+
+[[pf]]
+src = "皮亚诺算数"
+dst = "皮亚诺算术"
+ts = "01:00:26.780 --> 01:00:29.120"
+
+[[pf]]
+src = "preciprefer system"
+dst = "proof assistant"
+ts = "01:00:46.760 --> 01:00:48.300"
+
+[[pf]]
+src = "霍尔逻辑"
+dst = "Hoare 逻辑"
+ts = "01:00:51.550 --> 01:00:53.090"
+
+[[pf]]
+src = "霍尔逻辑"
+dst = "Hoare 逻辑"
+ts = "01:00:53.090 --> 01:00:55.590"
+
+[[pf]]
+src = "carry hoa hoa correspondence"
+dst = "Curry–Howard correspondence"
+ts = "01:01:16.930 --> 01:01:19.610"
+
+[[pf]]
+src = "命题及类型证明及程序"
+dst = "命题即类型，证明即程序"
+ts = "01:01:19.610 --> 01:01:24.290"
+
+[[pf]]
+src = "Curry hocorrespondence"
+dst = "Curry–Howard correspondence"
+ts = "01:01:33.250 --> 01:01:34.890"
+
+[[pf]]
+src = "在南那"
+dst = "在南大"
+ts = "01:01:34.890 --> 01:01:37.490"
+
+[[pf]]
+src = "carry how are correspondence"
+dst = "Curry–Howard correspondence"
+ts = "01:01:53.480 --> 01:01:56.460"
+
+[[pf]]
+src = "for x"
+dst = "∀x"
+ts = "01:02:13.300 --> 01:02:17.750"
+
+[[pf]]
+src = "等式的"
+dst = "等势的"
+ts = "01:03:22.250 --> 01:03:24.430"
+
+[[pf]]
+src = "CARDELITY"
+dst = "Cardinality"
+ts = "01:03:26.210 --> 01:03:27.270"
+
+[[pf]]
+src = "Cadian product"
+dst = "Cartesian product"
+ts = "01:03:30.970 --> 01:03:32.110"
+
+[[pf]]
+src = "In place"
+dst = "implies"
+ts = "01:04:23.829 --> 01:04:25.729"
+
+[[pf]]
+src = "compare是正确的"
+dst = "compile 是正确的"
+ts = "01:04:41.910 --> 01:04:44.770"
+
+[[pf]]
+src = "carry hot corresponse"
+dst = "Curry–Howard correspondence"
+ts = "01:05:09.190 --> 01:05:11.030"
+
+[[pf]]
+src = "prop stack"
+dst = "proof stack"
+ts = "01:06:39.870 --> 01:06:44.160"
+
+[[pf]]
+src = "这个X等于一就可以可以合成"
+dst = "这个 x = 1 就可以合上"
+ts = "01:06:49.800 --> 01:06:53.160"
+
+[[pf]]
+src = "我就是lambda啊XY就是X"
+dst = "就是 lambda x: x"
+ts = "01:07:22.900 --> 01:07:27.860"
+
+[[pf]]
+src = "proproof system"
+dst = "proof system"
+ts = "01:07:40.260 --> 01:07:43.780"
+
+[[pf]]
+src = "相当于是PA就imply p1A加一"
+dst = "相当于 P(a) ⇒ P(a + 1)"
+ts = "01:08:53.890 --> 01:08:58.330"
+
+[[pf]]
+src = "你会发现你挣这个你第一次挣这个"
+dst = "你会发现，第一次证这个"
+ts = "01:09:54.880 --> 01:09:58.440"
+
+[[pf]]
+src = "PROFCC"
+dst = "proof assistant"
+ts = "01:10:09.700 --> 01:10:12.260"
+
+[[pf]]
+src = "PROFSISTANT"
+dst = "proof assistant"
+ts = "01:10:19.519 --> 01:10:22.079"
+
+[[pf]]
+src = "我那天就web了一下"
+dst = "那天我就 Vibe 了一下"
+ts = "01:10:52.620 --> 01:10:55.520"
+
+[[pf]]
+src = "LIN的playground"
+dst = "Lean 的 playground"
+ts = "01:11:01.340 --> 01:11:04.380"
+
+[[pf]]
+src = "proof sistant playground"
+dst = "proof assistant playground"
+ts = "01:11:06.880 --> 01:11:10.940"
+
+[[pf]]
+src = "所以LN是一个很好的编程语"
+dst = "所以 Lean 是一个很好的编程语"
+ts = "01:11:13.600 --> 01:11:15.440"
+
+[[pf]]
+src = "如果你是SERI的话"
+dst = "如果是 theorem"
+ts = "01:11:18.080 --> 01:11:19.280"
+
+[[pf]]
+src = "你在这个令里面也能写"
+dst = "在 Lean 里面也能写"
+ts = "01:11:48.870 --> 01:11:50.940"
+
+[[pf]]
+src = "functional programing language"
+dst = "functional programming language"
+ts = "01:12:00.790 --> 01:12:02.870"
+
+[[pf]]
+src = "让它生成一个令生成一个呃可执行的代码"
+dst = "让它生成 Lean 可执行的代码"
+ts = "01:12:13.120 --> 01:12:18.680"
+
+[[pf]]
+src = "我的这个JAVASCRI世界里面然后把这个JASCRIPT世界里面"
+dst = "我的 JavaScript 世界里面，把这个世界里面"
+ts = "01:12:21.360 --> 01:12:24.719"
+
+[[pf]]
+src = "分型"
+dst = "分形"
+ts = "01:12:24.719 --> 01:12:27.559"
+
+[[pf]]
+src = "PROFESISTANT"
+dst = "proof assistant"
+ts = "01:12:54.770 --> 01:12:56.970"
+
+[[pf]]
+src = "proof of sistant"
+dst = "proof assistant"
+ts = "01:13:01.350 --> 01:13:03.450"
+
+[[pf]]
+src = "polar noon time"
+dst = "polynomial time"
+ts = "01:14:35.610 --> 01:14:39.290"
+
+[[pf]]
+src = "抛门抛门normal time"
+dst = "polynomial time"
+ts = "01:14:55.200 --> 01:14:58.770"
+
+[[pf]]
+src = "CONJECTOR"
+dst = "conjecture"
+ts = "01:15:22.980 --> 01:15:25.500"
+
+[[pf]]
+src = "JPG先给我写了一个informal的proof"
+dst = "GPT 先给我写了一个 informal 的 proof"
+ts = "01:15:41.340 --> 01:15:47.850"
+
+[[pf]]
+src = "这个cloud给我交叉检查了一下Cloud说"
+dst = "Claude 交叉检查了一下，Claude 说"
+ts = "01:16:05.780 --> 01:16:10.560"
+
+[[pf]]
+src = "然后又写了2万行令"
+dst = "又写了两万行 Lean"
+ts = "01:16:10.560 --> 01:16:11.940"
+
+[[pf]]
+src = "写2万行令"
+dst = "写两万行 Lean"
+ts = "01:16:14.460 --> 01:16:15.100"
+
+[[pf]]
+src = "那个令型号完了以后"
+dst = "那个 Lean 写完以后"
+ts = "01:16:18.410 --> 01:16:20.950"
+
+[[pf]]
+src = "GP6出来"
+dst = "GPT-6 出来"
+ts = "01:16:26.140 --> 01:16:27.140"
+
+[[pf]]
+src = "principle of distributeComputing"
+dst = "Principles of Distributed Computing"
+ts = "01:16:28.680 --> 01:16:33.400"
+
+[[pf]]
+src = "GPU认为在在已在过了他的bar"
+dst = "GPT 认为已经过了它的 bar"
+ts = "01:16:39.720 --> 01:16:42.120"
+
+[[pf]]
+src = "CD office认为他在bd line上"
+dst = "Claude Opus 认为在 borderline 上"
+ts = "01:16:42.120 --> 01:16:44.080"
+
+[[pf]]
+src = "sl four"
+dst = "seL4"
+ts = "01:17:07.049 --> 01:17:10.109"
+
+[[pf]]
+src = "concert形式化验证的编译器"
+dst = "CompCert，形式化验证的编译器"
+ts = "01:17:11.729 --> 01:17:15.450"
+
+[[pf]]
+src = "story telling text"
+dst = "storytelling tax"
+ts = "01:17:39.790 --> 01:17:42.050"
+
+[[pf]]
+src = "engineering text"
+dst = "engineering tax"
+ts = "01:17:43.320 --> 01:17:45.020"
+
+[[pf]]
+src = "formalization text之前也点评了"
+dst = "formalization tax 之前也碾平了"
+ts = "01:17:55.840 --> 01:17:57.800"
+
+[[pf]]
+src = "它也成text了"
+dst = "也成 tax 了"
+ts = "01:18:04.710 --> 01:18:06.150"
+
+[[pf]]
+src = "carry hoverCorrespondence"
+dst = "Curry–Howard correspondence"
+ts = "01:18:08.450 --> 01:18:11.150"
+
+[[pf]]
+src = "ANTHROPIC没有被强"
+dst = "Anthropic 没有被墙"
+ts = "01:18:30.680 --> 01:18:33.049"
+
+[[pf]]
+src = "Lms are making for most of twareReficationFeasibleAt a much larger scale"
+dst = "LLMs are making formal software verification feasible at a much larger scale"
+ts = "01:18:33.049 --> 01:18:37.229"
+
+[[pf]]
+src = "像令啊cock啊"
+dst = "Lean、Coq"
+ts = "01:18:54.830 --> 01:18:57.560"
+
+[[pf]]
+src = "非常involve的数学"
+dst = "非常 involved 的数学"
+ts = "01:19:36.890 --> 01:19:39.850"
+
+[[pf]]
+src = "formalized的serum"
+dst = "formalized 的 theorem"
+ts = "01:20:43.420 --> 01:20:46.500"
+
+[[pf]]
+src = "这个serum普法现在证明了他是公理化的证明了这是对的"
+dst = "这个 theorem、proof 现在公理化地证明了这是对的"
+ts = "01:20:46.500 --> 01:20:51.530"
+
+[[pf]]
+src = "这个shame是不是真的对应了我的"
+dst = "这个 theorem 是不是真的对应了我的"
+ts = "01:20:51.530 --> 01:20:54.350"
+
+[[pf]]
+src = "我的INTETATION又是不是对应了spec呢"
+dst = "Implementation 又是不是对应了 spec"
+ts = "01:20:55.800 --> 01:20:58.940"
+
+[[pf]]
+src = "P不等于NP还是P等于MP"
+dst = "P ≠ NP，还是 P = NP"
+ts = "01:21:18.220 --> 01:21:20.560"
+
+[[pf]]
+src = "很长的LIN的证明"
+dst = "很长的 Lean 证明"
+ts = "01:21:21.800 --> 01:21:25.669"
+
+[[pf]]
+src = "这个形式案例"
+dst = "形式化的东西"
+ts = "01:21:33.790 --> 01:21:36.250"
+
+[[pf]]
+src = "就我生成P等于mp"
+dst = "我声称 P = NP"
+ts = "01:21:43.120 --> 01:21:44.480"
+
+[[pf]]
+src = "你的这个SHRAM中间"
+dst = "你的 theorem 中间"
+ts = "01:22:08.989 --> 01:22:12.919"
+
+[[pf]]
+src = "核心的那个那个那个呃sim写错了"
+dst = "核心的 theorem 写错了"
+ts = "01:22:16.579 --> 01:22:21.130"
+
+[[pf]]
+src = "变成挣了个寂寞"
+dst = "变成“证了个寂寞”"
+ts = "01:22:30.380 --> 01:22:31.700"
+
+[[pf]]
+src = "model che"
+dst = "model checking"
+ts = "01:22:41.360 --> 01:22:42.360"
+
+[[pf]]
+src = "POPO的文章"
+dst = "POPL 的文章"
+ts = "01:24:00.160 --> 01:24:01.040"
+
+[[pf]]
+src = "OISEI九六"
+dst = "OSDI 96"
+ts = "01:24:08.090 --> 01:24:11.810"
+
+[[pf]]
+src = "memory craft"
+dst = "memory corrupt"
+ts = "01:25:03.660 --> 01:25:06.100"
+
+[[pf]]
+src = "EBPF"
+dst = "eBPF"
+ts = "01:25:06.840 --> 01:25:07.980"
+
+[[pf]]
+src = "EBBF其实和这个profecaring code"
+dst = "eBPF 和 Proof-Carrying Code"
+ts = "01:25:09.240 --> 01:25:11.200"
+
+[[pf]]
+src = "SPECIICATION"
+dst = "specification"
+ts = "01:25:29.770 --> 01:25:32.050"
+
+[[pf]]
+src = "SPECIATION"
+dst = "specification"
+ts = "01:25:32.050 --> 01:25:35.530"
+
+[[pf]]
+src = "写一个SERT"
+dst = "写一个 assert"
+ts = "01:25:35.530 --> 01:25:37.600"
+
+[[pf]]
+src = "平衡数"
+dst = "平衡树"
+ts = "01:25:37.880 --> 01:25:41.950"
+
+[[pf]]
+src = "这个SERT"
+dst = "这个 assert"
+ts = "01:26:22.060 --> 01:26:24.600"
+
+[[pf]]
+src = "自带4SPECIATION"
+dst = "自带 specification"
+ts = "01:26:30.949 --> 01:26:33.480"
+
+[[pf]]
+src = "我在LM之前"
+dst = "在 LLM 之前"
+ts = "01:26:38.530 --> 01:26:41.050"
+
+[[pf]]
+src = "证明的数是个数"
+dst = "证明树是棵树"
+ts = "01:27:07.690 --> 01:27:08.910"
+
+[[pf]]
+src = "你所有的search都能证明的时候"
+dst = "所有 assert 都能证明"
+ts = "01:27:11.660 --> 01:27:13.680"
+
+[[pf]]
+src = "OSI96"
+dst = "OSDI 96"
+ts = "01:27:22.529 --> 01:27:24.429"
+
+[[pf]]
+src = "curryhoare correspondence"
+dst = "Curry–Howard correspondence"
+ts = "01:27:24.429 --> 01:27:28.009"
+
+[[pf]]
+src = "PR和OS"
+dst = "PL 和 OS"
+ts = "01:27:37.870 --> 01:27:40.550"
+
+[[pf]]
+src = "program language"
+dst = "programming language"
+ts = "01:27:42.270 --> 01:27:45.939"
+
+[[pf]]
+src = "state of trial arrogance"
+dst = "State of Trivial Arrogance"
+ts = "01:28:37.760 --> 01:28:40.240"
+
+[[pf]]
+src = "slap optimito essence"
+dst = "Slop Optimized To Ascend"
+ts = "01:28:40.240 --> 01:28:43.299"
+
+[[pf]]
+src = "science of tribute advances"
+dst = "Science of Trivial Advances"
+ts = "01:28:43.299 --> 01:28:45.839"
+
+[[pf]]
+src = "在历史上你的人"
+dst = "历史上的人"
+ts = "01:28:54.629 --> 01:28:56.709"
+
+[[pf]]
+src = "there is NO saver ablet还是没有赢的"
+dst = "There is no Silver Bullet，还是没有银弹"
+ts = "01:29:18.060 --> 01:29:24.870"
+
+[[pf]]
+src = "cash miss rate"
+dst = "cache miss rate"
+ts = "01:29:44.670 --> 01:29:46.690"
+
+[[pf]]
+src = "这个问题就叫auto formali"
+dst = "这个问题叫 autoformalization"
+ts = "01:30:30.080 --> 01:30:32.140"
+
+[[pf]]
+src = "auto phone acation"
+dst = "autoformalization"
+ts = "01:30:39.400 --> 01:30:41.000"
+
+[[pf]]
+src = "auto phone action"
+dst = "autoformalization"
+ts = "01:30:46.340 --> 01:30:48.600"
+
+[[pf]]
+src = "那个令他证明的东西"
+dst = "Lean 证明的东西"
+ts = "01:30:54.740 --> 01:30:56.400"
+
+[[pf]]
+src = "大约模型"
+dst = "大语言模型"
+ts = "01:30:59.880 --> 01:31:02.160"
+
+[[pf]]
+src = "供给系统"
+dst = "公理系统"
+ts = "01:31:09.100 --> 01:31:10.540"
+
+[[pf]]
+src = "carry霍尔correspondence"
+dst = "Curry–Howard correspondence"
+ts = "01:31:53.209 --> 01:31:56.129"
+
+[[pf]]
+src = "无限的语调"
+dst = "无限的语料"
+ts = "01:32:42.780 --> 01:32:44.920"
+
+[[pf]]
+src = "auto foreaction"
+dst = "autoformalization"
+ts = "01:33:00.630 --> 01:33:03.490"
+
+[[pf]]
+src = "for auto phone els"
+dst = "autoformalize"
+ts = "01:33:04.970 --> 01:33:07.790"
+
+[[pf]]
+src = "但是他那个phone lis很长"
+dst = "但那个形式化表达很长"
+ts = "01:33:07.790 --> 01:33:09.250"
+
+[[pf]]
+src = "system two"
+dst = "System II"
+ts = "01:33:26.160 --> 01:33:27.080"
+
+[[pf]]
+src = "formal alizedformal formal世界"
+dst = "formal 世界"
+ts = "01:34:44.410 --> 01:34:49.080"
