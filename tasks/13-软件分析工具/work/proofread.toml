@@ -1,4 +1,13 @@
-# 第十三讲初稿：仅记录有歧义的识别更正，常规去重、标点、人称修正不记。
+# 第十三讲校对及讲义复查：仅记录有歧义的识别更正，常规去重、标点、人称修正不记。
+# 复查：https://jyywiki.cn/GSE/2026/lect13.md
+# 投影片：https://jyywiki.cn/GSE/2026/slides13.html
+# 一手资料核验：
+# https://cmu-sei.github.io/secure-coding-standards/sei-cert-c-coding-standard/recommendations/characters-and-strings-str/str09-c/
+# https://codeql.github.com/docs/codeql-overview/about-codeql/
+# https://softwareprocess.es/pubs/hindle2012ICSE.pdf
+# https://jimgray.azurewebsites.net/jimgraytalks.htm
+# https://people.eecs.berkeley.edu/~jordan/papers/xu-etal-sosp09.pdf
+# https://pp.ipd.kit.edu/publication.php?id=zeller96sigplan&lang=en
 
 [[pf]]
 src = "SPECT"
@@ -608,7 +617,7 @@ ts = "00:53:29.910 --> 00:53:33.790"
 # 讨论AI自己编写规则、checker及单元测试。
 [[pf]]
 src = "linter vs"
-dst = "Linter rules"
+dst = "linter rules"
 ts = "00:54:27.660 --> 00:54:28.920"
 
 
