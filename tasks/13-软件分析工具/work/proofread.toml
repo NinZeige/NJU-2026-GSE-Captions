@@ -1,0 +1,1143 @@
+# 第十三讲初稿：仅记录有歧义的识别更正，常规去重、标点、人称修正不记。
+
+[[pf]]
+src = "SPECT"
+dst = "spec"
+ts = "00:00:24.220 --> 00:00:26.460"
+
+# 上下文指商学院同学有意图但不清楚具体要做什么。
+[[pf]]
+src = "大舅有个intent"
+dst = "他就有个 intent"
+ts = "00:00:49.769 --> 00:00:50.969"
+
+# 官方投影片第1张链接名称及SEI标准名核验。
+[[pf]]
+src = "s e i search c coding standard"
+dst = "SEI CERT C Coding Standard"
+ts = "00:02:08.280 --> 00:02:10.320"
+
+# SEI STR09-C 官方标题与课堂引述一致。
+[[pf]]
+src = "playing character"
+dst = "plain character"
+ts = "00:02:41.580 --> 00:02:43.519"
+
+[[pf]]
+src = "A证"
+dst = "Agent"
+ts = "00:03:23.620 --> 00:03:26.340"
+
+[[pf]]
+src = "A证"
+dst = "Agent"
+ts = "00:03:28.500 --> 00:03:30.020"
+
+[[pf]]
+src = "A证"
+dst = "Agent"
+ts = "00:03:32.620 --> 00:03:34.729"
+
+[[pf]]
+src = "A证"
+dst = "Agent"
+ts = "00:03:40.469 --> 00:03:42.790"
+
+[[pf]]
+src = "ID或者今天的agent harness"
+dst = "IDE，或者今天的 Agent harness"
+ts = "00:04:17.020 --> 00:04:19.400"
+
+[[pf]]
+src = "我们的INTE呢"
+dst = "我们的 intent"
+ts = "00:04:35.310 --> 00:04:37.590"
+
+# 按紧接着的“有这种冲动，想要做一个小的side project”恢复；仍留dashboard。
+[[pf]]
+src = "小做起"
+dst = "想做的"
+ts = "00:04:45.670 --> 00:04:49.200"
+
+[[pf]]
+src = "点git的rapport"
+dst = "`.git` 的 repo"
+ts = "00:05:04.560 --> 00:05:07.210"
+
+[[pf]]
+src = "程序id的时候"
+dst = "程序，在 IDE 里的时候"
+ts = "00:05:24.940 --> 00:05:27.180"
+
+[[pf]]
+src = "再漏的一个插件"
+dst = "再 load 一个插件"
+ts = "00:05:49.230 --> 00:05:52.890"
+
+[[pf]]
+src = "miss youse"
+dst = "misuse"
+ts = "00:05:52.890 --> 00:05:55.650"
+
+[[pf]]
+src = "recursive self improved"
+dst = "recursive self-improvement"
+ts = "00:06:29.360 --> 00:06:33.150"
+
+[[pf]]
+src = "See the subset"
+dst = "C 的 subset"
+ts = "00:07:26.820 --> 00:07:27.720"
+
+[[pf]]
+src = "see the subset"
+dst = "C 的 subset"
+ts = "00:07:27.720 --> 00:07:29.260"
+
+[[pf]]
+src = "GC自己编译编译的"
+dst = "GCC 自己编译的"
+ts = "00:07:34.300 --> 00:07:36.760"
+
+[[pf]]
+src = "我们的ID你又看到"
+dst = "我们的 IDE，你又看到"
+ts = "00:08:04.569 --> 00:08:07.129"
+
+[[pf]]
+src = "A阵"
+dst = "Agent"
+ts = "00:08:17.120 --> 00:08:19.240"
+
+# 按同音及常见生成演示例子辨认。
+[[pf]]
+src = "提壶骑自行车"
+dst = "鹈鹕骑自行车"
+ts = "00:09:06.930 --> 00:09:09.790"
+
+[[pf]]
+src = "three点JS"
+dst = "Three.js"
+ts = "00:09:11.940 --> 00:09:16.420"
+
+[[pf]]
+src = "AI制呢"
+dst = "AI Agent"
+ts = "00:09:29.820 --> 00:09:31.420"
+
+# 同本片前文SEI CERT C规范。
+[[pf]]
+src = "sic coding center"
+dst = "SEI CERT C Coding Standard"
+ts = "00:09:50.860 --> 00:09:54.340"
+
+[[pf]]
+src = "同样的AH呢"
+dst = "同样的 Agent"
+ts = "00:09:57.230 --> 00:09:59.210"
+
+# 官方投影片第2张“人类RSI”，与前文RSI一致。
+[[pf]]
+src = "ISI"
+dst = "RSI"
+ts = "00:10:29.350 --> 00:10:33.510"
+
+[[pf]]
+src = "auto regressive model"
+dst = "autoregressive model"
+ts = "00:10:45.230 --> 00:10:46.750"
+
+[[pf]]
+src = "大大圆模型"
+dst = "大语言模型"
+ts = "00:11:13.180 --> 00:11:16.080"
+
+# 下文明确说“整个computer science学习的东西”。
+[[pf]]
+src = "car sans"
+dst = "Computer Science"
+ts = "00:11:21.770 --> 00:11:25.170"
+
+# 按数据结构课tree/graph上下文推断；未能从投影片核验具体树类型，另记dashboard。
+[[pf]]
+src = "finfiny tree"
+dst = "binary tree"
+ts = "00:11:27.580 --> 00:11:30.500"
+
+[[pf]]
+src = "note上面"
+dst = "node 上面"
+ts = "00:11:37.880 --> 00:11:39.940"
+
+[[pf]]
+src = "generate v i"
+dst = "Generative AI"
+ts = "00:12:50.110 --> 00:12:52.610"
+
+[[pf]]
+src = "code ql"
+dst = "CodeQL"
+ts = "00:13:31.470 --> 00:13:33.570"
+
+# 紧接着讲SQL的数据库select类比。
+[[pf]]
+src = "像CQ一样的东西"
+dst = "像 SQL 一样的东西"
+ts = "00:14:02.550 --> 00:14:05.300"
+
+[[pf]]
+src = "语法数节点"
+dst = "语法树节点"
+ts = "00:14:10.020 --> 00:14:11.740"
+
+[[pf]]
+src = "select1MALLOC"
+dst = "select 一个 malloc"
+ts = "00:14:11.740 --> 00:14:14.300"
+
+# 同一演示上下文。
+[[pf]]
+src = "QQQR"
+dst = "CodeQL"
+ts = "00:14:32.069 --> 00:14:34.150"
+
+# 同一演示上下文。
+[[pf]]
+src = "QQQR"
+dst = "CodeQL"
+ts = "00:15:06.390 --> 00:15:08.510"
+
+[[pf]]
+src = "INATION"
+dst = "implementation"
+ts = "00:18:08.520 --> 00:18:11.080"
+
+[[pf]]
+src = "是不是反满足了SPECT或者intent"
+dst = "是不是满足了 spec 或 intent"
+ts = "00:19:46.100 --> 00:19:48.860"
+
+[[pf]]
+src = "get keeping"
+dst = "gatekeeping"
+ts = "00:20:58.149 --> 00:21:00.090"
+
+[[pf]]
+src = "A证"
+dst = "Agent"
+ts = "00:21:04.610 --> 00:21:07.870"
+
+# 上下文为语言调试器、单步调试。
+[[pf]]
+src = "GDP"
+dst = "GDB"
+ts = "00:21:15.410 --> 00:21:18.170"
+
+# 上下文描述CPU隐藏单条指令延迟。
+[[pf]]
+src = "指令集的并行"
+dst = "指令级并行"
+ts = "00:22:48.840 --> 00:22:51.080"
+
+# 本片此前明确说测试增加软件正确性的信心，与此处语法及上下文一致。
+[[pf]]
+src = "增加你对软件的性质"
+dst = "增加你对软件的信心"
+ts = "00:24:21.770 --> 00:24:26.350"
+
+[[pf]]
+src = "状态极限"
+dst = "状态机"
+ts = "00:25:10.989 --> 00:25:12.629"
+
+[[pf]]
+src = "ARGC和二个V"
+dst = "argc 和 argv"
+ts = "00:25:25.740 --> 00:25:29.440"
+
+[[pf]]
+src = "我YX等于input"
+dst = "我有 x = input()"
+ts = "00:26:16.320 --> 00:26:20.610"
+
+# 按前文命令行参数 ./a.out a 整理；此处“等于”含混，另记dashboard。
+[[pf]]
+src = "A点out等于A"
+dst = "a.out a"
+ts = "00:26:39.550 --> 00:26:43.250"
+
+[[pf]]
+src = "框架合并成一个状态"
+dst = "框起来，合并成一个状态"
+ts = "00:27:06.440 --> 00:27:08.160"
+
+[[pf]]
+src = "未初始化的啊之所以"
+dst = "未初始化的值，所以"
+ts = "00:29:29.320 --> 00:29:35.240"
+
+# 官方投影片第9张 Rice's Theorem。
+[[pf]]
+src = "rice serum"
+dst = "Rice's theorem"
+ts = "00:29:54.770 --> 00:29:59.490"
+
+[[pf]]
+src = "turing completed"
+dst = "Turing-complete"
+ts = "00:30:25.230 --> 00:30:28.510"
+
+# 已对照官方讲义及幻灯核验术语；不将讲义中未口述的内容补入正文。
+
+# 代码语境：下文先自增、再yield；不补初始化、枚举策略或边界条件。
+[[pf]]
+src = "就i y true对吧"
+dst = "while True"
+ts = "00:30:58.690 --> 00:31:04.110"
+
+
+# Python generator 关键字，后文明确为无限生成器。
+[[pf]]
+src = "然后又有的I"
+dst = "然后 yield i"
+ts = "00:31:08.170 --> 00:31:09.780"
+
+
+# 官方slides8代码为abort()。
+[[pf]]
+src = "你就要BT你这程序就终止了"
+dst = "你就 abort，这个程序就终止了"
+ts = "00:31:36.970 --> 00:31:39.380"
+
+
+# 同一费马示例，官方slides8标题“这个程序会 abort 吗？”。
+[[pf]]
+src = "你这个程序会不会有bot对吧"
+dst = "这个程序会不会 abort？"
+ts = "00:31:40.260 --> 00:31:43.110"
+
+
+# 前后均在讨论异常终止，不改成bug。
+[[pf]]
+src = "我们谈论了bot的时候"
+dst = "我们谈论 abort 时"
+ts = "00:31:43.110 --> 00:31:45.790"
+
+
+# 指针为空的技术语境。
+[[pf]]
+src = "now pointer"
+dst = "null pointer"
+ts = "00:31:49.570 --> 00:31:51.690"
+
+
+# 语境为故意解引用空指针以触发异常。
+[[pf]]
+src = "DEVELENCY控制针"
+dst = "dereference 空指针"
+ts = "00:31:53.930 --> 00:31:57.849"
+
+
+# 与前一句同一操作。
+[[pf]]
+src = "DIREENCY控制针"
+dst = "dereference 空指针"
+ts = "00:31:58.609 --> 00:32:00.589"
+
+
+# 所指为课件页。
+[[pf]]
+src = "这个slice里"
+dst = "这个 slides 里"
+ts = "00:32:54.730 --> 00:32:56.650"
+
+
+# 课程在对比传统程序分析与LLM。
+[[pf]]
+src = "这个LM之前的时代"
+dst = "LLM 之前的时代"
+ts = "00:33:09.610 --> 00:33:13.370"
+
+
+# 语境为所有可能程序的集合。
+[[pf]]
+src = "所有程序事件里面"
+dst = "所有程序世界里面"
+ts = "00:34:19.559 --> 00:34:22.789"
+
+
+# 英语自我修正，结合分析工具输出语境整理。
+[[pf]]
+src = "analysis result this is results"
+dst = "analysis results"
+ts = "00:34:37.780 --> 00:34:42.980"
+
+
+# 口述向量分量举例；原字幕标点不可靠，保留所识别的数字次序。
+[[pf]]
+src = "什么134.275"
+dst = "什么 1、3、4、2、7、5"
+ts = "00:35:42.760 --> 00:35:45.850"
+
+
+# 缺陷预测语境：预测风险，并非专指前端。
+[[pf]]
+src = "前端的bug"
+dst = "潜在的 bug"
+ts = "00:36:19.890 --> 00:36:22.770"
+
+
+# 官方slides8标题为Rice's Theorem。
+[[pf]]
+src = "rice sam"
+dst = "Rice's theorem"
+ts = "00:36:40.120 --> 00:36:42.590"
+
+
+# 静态类型推导术语。
+[[pf]]
+src = "Typinference"
+dst = "type inference"
+ts = "00:40:26.560 --> 00:40:27.660"
+
+
+# 结合auto与tuple的拆包语境；不改动讲者关于C++17的陈述。
+[[pf]]
+src = "on box"
+dst = "unbox"
+ts = "00:40:33.170 --> 00:40:35.030"
+
+
+# auto拆包并推导两个元素类型的语境。
+[[pf]]
+src = "一个突破里面"
+dst = "一个 tuple 里面"
+ts = "00:40:35.030 --> 00:40:38.430"
+
+
+# 前后明确谈Rust类型体操。
+[[pf]]
+src = "Rush里面"
+dst = "Rust 里面"
+ts = "00:41:21.069 --> 00:41:22.229"
+
+
+# 课程现场Coding Agent模型称呼；不补V4等版本号。
+[[pf]]
+src = "deep pflash"
+dst = "DeepSeek Flash"
+ts = "00:42:30.910 --> 00:42:33.530"
+
+
+# 空指针检查语境。
+[[pf]]
+src = "now pointer的safety"
+dst = "null pointer 的 safety"
+ts = "00:42:46.090 --> 00:42:52.790"
+
+
+# 异步函数、Promise语境。
+[[pf]]
+src = "忘记weight的这个promise"
+dst = "忘记 await 的 Promise"
+ts = "00:42:54.730 --> 00:42:56.570"
+
+
+# API与类型转换语境。
+[[pf]]
+src = "影视转换"
+dst = "隐式转换"
+ts = "00:43:02.960 --> 00:43:05.840"
+
+
+# 整数/地址强制类型转换语境。
+[[pf]]
+src = "把他cos成"
+dst = "把它 cast 成"
+ts = "00:43:41.760 --> 00:43:44.960"
+
+
+# 函数指针强制类型转换语境。
+[[pf]]
+src = "直接cos成"
+dst = "直接 cast 成"
+ts = "00:43:52.940 --> 00:43:54.520"
+
+
+# 静态规则检查语境，后接lint rule。
+[[pf]]
+src = "code care"
+dst = "code checker"
+ts = "00:44:14.180 --> 00:44:15.860"
+
+
+# 条件嵌套导致函数复杂性的语境。
+[[pf]]
+src = "衣服嵌套层数"
+dst = "if 嵌套层数"
+ts = "00:44:38.079 --> 00:44:42.170"
+
+
+# 取舍语境，官方slides9标题明确Trade Off。
+[[pf]]
+src = "TRA道夫"
+dst = "trade-off"
+ts = "00:44:48.790 --> 00:44:50.330"
+
+
+# 同上。
+[[pf]]
+src = "各种各样的吹到"
+dst = "各种各样的 trade-off"
+ts = "00:44:58.930 --> 00:45:00.780"
+
+# 已对照官方讲义及幻灯核验术语；不将讲义中未口述的内容补入正文。
+
+# 官方slides10列有Property-based testing。
+[[pf]]
+src = "proty base的testing"
+dst = "property-based testing"
+ts = "00:46:08.010 --> 00:46:10.010"
+
+
+# 紧接assertion，按性质写生成器的语境。
+[[pf]]
+src = "根据这个search"
+dst = "根据这个 assert"
+ts = "00:46:20.230 --> 00:46:22.950"
+
+
+# 前文已识别“测试准出的门槛”。
+[[pf]]
+src = "准充的门槛"
+dst = "准出的门槛"
+ts = "00:48:07.250 --> 00:48:08.990"
+
+
+# 课程仓库Agent指令文件名称。
+[[pf]]
+src = "AGEN点MD"
+dst = "AGENTS.md"
+ts = "00:48:08.990 --> 00:48:11.870"
+
+
+# 上下文均为Coding Agent。
+[[pf]]
+src = "A证"
+dst = "Agent"
+ts = "00:48:22.220 --> 00:48:24.660"
+
+
+# Agent时代语境。
+[[pf]]
+src = "AA证"
+dst = "Agent"
+ts = "00:49:57.720 --> 00:49:59.820"
+
+
+# 所交付的是Git仓库；正文使用代码格式。
+[[pf]]
+src = "点git"
+dst = ".git"
+ts = "00:50:13.770 --> 00:50:18.095"
+
+
+# 同上。
+[[pf]]
+src = "点get"
+dst = ".git"
+ts = "00:50:29.610 --> 00:50:32.710"
+
+
+# 后文是把首项工作放进新建仓库，repo/repository的口述误识别。
+[[pf]]
+src = "见个git ref"
+dst = "建一个 Git repo"
+ts = "00:51:04.320 --> 00:51:06.280"
+
+
+# 与生成文件一起被误加入仓库的常见编译输出文件。
+[[pf]]
+src = "A点alt"
+dst = "a.out"
+ts = "00:51:19.760 --> 00:51:21.100"
+
+
+# Mac隐藏文件，后句再次提及。
+[[pf]]
+src = "点ds s store"
+dst = ".DS_Store"
+ts = "00:51:21.100 --> 00:51:23.020"
+
+
+# Mac隐藏文件。
+[[pf]]
+src = "ds store"
+dst = ".DS_Store"
+ts = "00:51:23.020 --> 00:51:26.180"
+
+
+# 后文说明把隐藏文件加进仓库，且随后commit。
+[[pf]]
+src = "GTA的点"
+dst = "git add ."
+ts = "00:51:30.229 --> 00:51:32.029"
+
+
+# 前文明确为type mismatch。
+[[pf]]
+src = "type是不mesh的"
+dst = "type 不 match"
+ts = "00:53:05.880 --> 00:53:07.090"
+
+
+# 快反馈与训练的语境；不添加后句无法辨认的短音。
+[[pf]]
+src = "system one"
+dst = "System I"
+ts = "00:53:19.030 --> 00:53:21.140"
+
+
+# 与OpenAI并列的模型厂商。
+[[pf]]
+src = "按ROY"
+dst = "Anthropic"
+ts = "00:53:29.910 --> 00:53:33.790"
+
+
+# 讨论AI自己编写规则、checker及单元测试。
+[[pf]]
+src = "linter vs"
+dst = "Linter rules"
+ts = "00:54:27.660 --> 00:54:28.920"
+
+
+# 后句直接展开recursive self improvement；官方slides1使用RSI。
+[[pf]]
+src = "ISI"
+dst = "RSI"
+ts = "00:54:40.340 --> 00:54:42.960"
+
+
+# 自动大量生成输入的语境，官方slides10为Fuzzing。
+[[pf]]
+src = "fast testing"
+dst = "fuzz testing"
+ts = "00:55:19.020 --> 00:55:21.410"
+
+
+# 承接recursive self-improvement。
+[[pf]]
+src = "随着SI的不断进步"
+dst = "随着 RSI 不断进步"
+ts = "00:56:16.280 --> 00:56:19.520"
+
+
+# 讨论大模型之前的机械软件分析。
+[[pf]]
+src = "PRIERM时代"
+dst = "pre-LLM 时代"
+ts = "00:57:38.250 --> 00:57:40.670"
+
+
+# 同上。
+[[pf]]
+src = "PREM时代"
+dst = "Pre-LLM 时代"
+ts = "00:57:40.670 --> 00:57:45.500"
+
+
+# 紧接“相当于给它一个tag”的重复解释，指类型标记。
+[[pf]]
+src = "给它加1+1个态度"
+dst = "给它一个 tag"
+ts = "00:58:22.730 --> 00:58:24.340"
+
+
+# 需求意图与规格语境，官方讲义反复使用intent/spec。
+[[pf]]
+src = "intense space"
+dst = "intent、spec"
+ts = "00:58:50.210 --> 00:58:54.390"
+
+
+# 后句立即自我解释，按口述合并。
+[[pf]]
+src = "无情机处理器"
+dst = "无情地执行指令的机器"
+ts = "00:59:05.529 --> 00:59:07.309"
+
+
+# 前后明确说形式化语义。
+[[pf]]
+src = "方mont sem semantics"
+dst = "formal semantics"
+ts = "00:59:09.089 --> 00:59:11.769"
+
+# 论文题名；n-gram、自然语言统计规律的上下文。
+[[pf]]
+src = "on the naturness of software"
+dst = "On the Naturalness of Software"
+ts = "01:00:06.210 --> 01:00:07.990"
+
+# This sentence is false 的语境。
+[[pf]]
+src = "很有名的辩论"
+dst = "很有名的悖论"
+ts = "01:00:30.940 --> 01:00:32.160"
+
+# 后文明说连续三个词。
+[[pf]]
+src = "sor three gram"
+dst = "3-gram"
+ts = "01:00:32.160 --> 01:00:33.880"
+
+# 英文动词音译；保留讲者随后取消 tokenize 的说法。
+[[pf]]
+src = "你可以把它token的啊不用token as"
+dst = "你可以把它 tokenize，不用 tokenize"
+ts = "01:00:40.570 --> 01:00:42.170"
+
+# n-gram 状态及概率转移上下文。
+[[pf]]
+src = "mk chain"
+dst = "Markov chain"
+ts = "01:01:01.610 --> 01:01:03.260"
+
+# 与此前 chain 及后续状态、概率、下一个词一致。
+[[pf]]
+src = "mouth cochain"
+dst = "Markov chain"
+ts = "01:01:04.620 --> 01:01:05.740"
+
+# 后文“形式化世界”与“人类世界”对齐。
+[[pf]]
+src = "两个事件"
+dst = "两个世界"
+ts = "01:01:42.120 --> 01:01:45.040"
+
+# 官方 lect13.md 的匿名代码核验标识符和运算符；只恢复此处口述表达式，未补另一段完整代码。
+[[pf]]
+src = "not x点负C1X减负C1and大于等于C2"
+dst = "not x.foo(c1)、x.bar >= c2"
+ts = "01:01:56.670 --> 01:02:02.600"
+
+# 程序条件数量上下文。
+[[pf]]
+src = "比如说衣服我我要求衣服里面"
+dst = "比如说 if，我要求 if 里面"
+ts = "01:02:14.620 --> 01:02:19.120"
+
+# 前后多次明确 persist。
+[[pf]]
+src = "proceed数据"
+dst = "persist 数据"
+ts = "01:05:09.200 --> 01:05:09.940"
+
+# 与“一定会选NAS”及后续“虽然人…”相接；原ASR有歧义，另列db。
+[[pf]]
+src = "不完全要选人"
+dst = "不会选人"
+ts = "01:05:11.020 --> 01:05:11.980"
+
+# 执行轨迹退出、终止语境。
+[[pf]]
+src = "turn termin了"
+dst = "terminate 了"
+ts = "01:06:25.650 --> 01:06:27.770"
+
+# 与静态分析并列。
+[[pf]]
+src = "形状方法"
+dst = "形式化方法"
+ts = "01:06:31.140 --> 01:06:35.230"
+
+# 程序安全性性质，与后文 integer overflow 并列。
+[[pf]]
+src = "Now pointer preference"
+dst = "null pointer dereference"
+ts = "01:06:40.550 --> 01:06:42.080"
+
+# 下一 cue 明确 overflow，从极端跳到另一极端。
+[[pf]]
+src = "integer workflow"
+dst = "integer overflow"
+ts = "01:06:42.080 --> 01:06:45.240"
+
+# 前后反复提到 intent/spec。
+[[pf]]
+src = "spect"
+dst = "spec"
+ts = "01:07:16.380 --> 01:07:23.740"
+
+# 将每条trace交给Agent检验。
+[[pf]]
+src = "A证"
+dst = "Agent"
+ts = "01:08:00.449 --> 01:08:01.049"
+
+# 官方 slides13 slide22及Jim Gray本人演讲档案核验：https://jimgray.azurewebsites.net/jimgraytalks.htm 。
+[[pf]]
+src = "jim green"
+dst = "Jim Gray"
+ts = "01:08:13.410 --> 01:08:17.750"
+
+# 官方 slides13 slide22引文核验；此处字幕有连续英文误识别。
+[[pf]]
+src = "他说啊tape is stead disicyTape flashesthis ram localities sk啊"
+dst = "他说：Tape is dead, disk is tape, flash is disk, RAM locality is king."
+ts = "01:08:18.350 --> 01:08:23.480"
+
+# 随后复述前一引文；磁带与磁盘对比上下文。
+[[pf]]
+src = "This tape is deadThis is tape"
+dst = "tape is dead，disk is tape"
+ts = "01:08:36.440 --> 01:08:38.560"
+
+# 前有SSD，后有手机闪存。
+[[pf]]
+src = "flash base s d"
+dst = "flash-based SSD"
+ts = "01:08:45.049 --> 01:08:48.960"
+
+# 前两句连续提到test case。
+[[pf]]
+src = "taxi好不好"
+dst = "test case 好不好"
+ts = "01:09:11.490 --> 01:09:13.210"
+
+# 前文coverage heuristic，机器可表示的启发式规则。
+[[pf]]
+src = "Heroic"
+dst = "heuristics"
+ts = "01:10:04.600 --> 01:10:05.000"
+
+# 程序执行错误上下文。
+[[pf]]
+src = "now pointer"
+dst = "null pointer"
+ts = "01:11:13.980 --> 01:11:17.430"
+
+# 依靠断言检测错误的语境。
+[[pf]]
+src = "surgeon"
+dst = "assertion"
+ts = "01:11:31.750 --> 01:11:34.530"
+
+# 论文原版 https://people.eecs.berkeley.edu/~jordan/papers/xu-etal-sosp09.pdf 。
+[[pf]]
+src = "sop09"
+dst = "SOSP 2009"
+ts = "01:11:45.620 --> 01:11:49.420"
+
+# 官方讲义及论文原版核验题名。
+[[pf]]
+src = "detectingLarge scale systemProblemsBy mining council locks"
+dst = "Detecting Large-Scale System Problems by Mining Console Logs"
+ts = "01:11:45.620 --> 01:11:53.059"
+
+# 函数调用目的地语境。
+[[pf]]
+src = "掉向哪里"
+dst = "调向哪里"
+ts = "01:12:37.250 --> 01:12:39.080"
+
+# 函数调用目的地语境。
+[[pf]]
+src = "掉向哪里"
+dst = "调向哪里"
+ts = "01:12:44.590 --> 01:12:46.330"
+
+# 研究领域名称拼写。
+[[pf]]
+src = "programing language"
+dst = "programming language"
+ts = "01:13:01.670 --> 01:13:04.210"
+
+# 全文同类ASR，指语言模型。
+[[pf]]
+src = "大圆模型"
+dst = "大语言模型"
+ts = "01:13:27.250 --> 01:13:31.590"
+
+# 所有日志串起一次执行轨迹的上下文；仅恢复术语。
+[[pf]]
+src = "猝死"
+dst = "trace"
+ts = "01:13:27.250 --> 01:13:31.590"
+
+# 全文同类ASR，指语言模型。
+[[pf]]
+src = "大圆模型"
+dst = "大语言模型"
+ts = "01:13:58.600 --> 01:14:01.620"
+
+# 解析日志上下文。
+[[pf]]
+src = "pass这个log"
+dst = "parse 这个 log"
+ts = "01:14:16.840 --> 01:14:20.900"
+
+# 紧接中文“分布式系统”。
+[[pf]]
+src = "distro system"
+dst = "distributed system"
+ts = "01:14:33.220 --> 01:14:37.640"
+
+# 前文反复说一千万条日志。
+[[pf]]
+src = "1000万条纸"
+dst = "一千万条日志"
+ts = "01:15:03.600 --> 01:15:05.280"
+
+# 前一句明确异常执行是outlier。
+[[pf]]
+src = "outline里面"
+dst = "outlier 里面"
+ts = "01:16:21.650 --> 01:16:23.370"
+
+# 比较执行曲线形状。
+[[pf]]
+src = "讲的不一样"
+dst = "长得不一样"
+ts = "01:16:24.830 --> 01:16:29.010"
+
+# 日志解析流程；论文原版图1列Log Parsing。
+[[pf]]
+src = "log passing"
+dst = "log parsing"
+ts = "01:16:56.800 --> 01:16:58.400"
+
+# 日志挖掘上下文。
+[[pf]]
+src = "min logs"
+dst = "mine logs"
+ts = "01:17:47.080 --> 01:17:48.460"
+
+# 从日志回溯程序位置。
+[[pf]]
+src = "从logo"
+dst = "从 log"
+ts = "01:17:49.499 --> 01:17:53.419"
+
+# DDD论文作者之一，官方讲义所链DDD及 https://pp.ipd.kit.edu/publication.php?id=zeller96sigplan&lang=en ；讲者自问人名仍保留。
+[[pf]]
+src = "ANDERSELLER"
+dst = "Andreas Zeller"
+ts = "01:18:21.980 --> 01:18:24.900"
+
+# 同一人名的自问语气，未消除讲者不确定性。
+[[pf]]
+src = "ANDERSALA"
+dst = "Andreas Zeller"
+ts = "01:18:24.900 --> 01:18:25.780"
+
+# 同一人名连续三次，依据DDD作者核验。
+[[pf]]
+src = "ANDERSLER"
+dst = "Andreas Zeller"
+ts = "01:18:25.780 --> 01:18:29.010"
+
+# 调试痛苦的口语。
+[[pf]]
+src = "调到to"
+dst = "调到吐"
+ts = "01:19:00.630 --> 01:19:03.959"
+
+# 数据结构、AVL tree上下文。
+[[pf]]
+src = "不TRIVI的数"
+dst = "不 trivial 的树"
+ts = "01:19:07.120 --> 01:19:08.160"
+
+# 英文识别不清，结合其后描述树必须满足的规格暂恢复为specification；另列db，不能排除verification。
+[[pf]]
+src = "formal versusication"
+dst = "formal specification"
+ts = "01:19:23.600 --> 01:19:26.120"
+
+# 前后AVL tree及平衡树语境。
+[[pf]]
+src = "AVR数"
+dst = "AVL 树"
+ts = "01:19:36.010 --> 01:19:37.820"
+
+# 相同数据结构名。
+[[pf]]
+src = "AVL数"
+dst = "AVL 树"
+ts = "01:19:40.100 --> 01:19:41.160"
+
+# 前后AVL tree及平衡树语境。
+[[pf]]
+src = "AVR数"
+dst = "AVL 树"
+ts = "01:19:55.370 --> 01:19:57.250"
+
+# 后续按节点顺序输出。
+[[pf]]
+src = "一次便利"
+dst = "一次遍历"
+ts = "01:19:58.370 --> 01:19:59.770"
+
+# 同上。
+[[pf]]
+src = "这样便利"
+dst = "这样遍历"
+ts = "01:20:19.380 --> 01:20:21.000"
+
+# 调试输出语境。
+[[pf]]
+src = "print f"
+dst = "printf"
+ts = "01:20:34.140 --> 01:20:36.300"
+
+# 相同数据结构名。
+[[pf]]
+src = "AVL数"
+dst = "AVL 树"
+ts = "01:20:45.159 --> 01:20:47.279"
+
+# 紧接GDB前端与“这个图”说明，是架构图语境。
+[[pf]]
+src = "它的价格"
+dst = "它的架构"
+ts = "01:21:07.040 --> 01:21:07.640"
+
+# DDD原论文及官方讲义核验。
+[[pf]]
+src = "GDP的前端GGB的前端"
+dst = "GDB 的前端"
+ts = "01:21:07.640 --> 01:21:11.280"
+
+# AVL/红黑树的上下文。
+[[pf]]
+src = "平衡数"
+dst = "平衡树"
+ts = "01:21:28.270 --> 01:21:30.870"
+
+# AVL/红黑树的上下文。
+[[pf]]
+src = "平衡数"
+dst = "平衡树"
+ts = "01:21:30.870 --> 01:21:34.230"
+
+# 英语口头连接语，后文相同语境又出现误识别“3号”。
+[[pf]]
+src = "Sam ha"
+dst = "Somehow"
+ts = "01:22:12.070 --> 01:22:12.710"
+
+# 与此前somehow读音一致，表达对人/机器均有用。
+[[pf]]
+src = "它3号都是"
+dst = "它 somehow 都是"
+ts = "01:22:57.840 --> 01:23:01.110"
+
+# 编译产物的例子。
+[[pf]]
+src = "A点out"
+dst = "a.out"
+ts = "01:24:24.210 --> 01:24:27.780"
+
+# 自动生成文档的流水线语境。
+[[pf]]
+src = "CICD"
+dst = "CI/CD"
+ts = "01:24:27.780 --> 01:24:30.700"
+
+# 版本库登记文档的语境，后文也说checking在ripple里面。
+[[pf]]
+src = "checking到GRIPPLE里"
+dst = "check in 到 Git repo 里"
+ts = "01:24:30.700 --> 01:24:34.160"
+
+# 生成不同细致程度文档的上下文。
+[[pf]]
+src = "文档的力度"
+dst = "文档的粒度"
+ts = "01:24:35.960 --> 01:24:38.000"
+
+# 同上。
+[[pf]]
+src = "不同力度"
+dst = "不同粒度"
+ts = "01:24:45.230 --> 01:24:47.470"
+
+# 语义检查的模型。
+[[pf]]
+src = "大圆模型"
+dst = "大语言模型"
+ts = "01:24:50.620 --> 01:24:54.660"
+
+# 语义检查的模型。
+[[pf]]
+src = "大圆模型"
+dst = "大语言模型"
+ts = "01:25:08.980 --> 01:25:11.780"
+
+# 前后同词多次。
+[[pf]]
+src = "INTET"
+dst = "intent"
+ts = "01:25:12.460 --> 01:25:13.940"
+
+# 同前文版本库文档登记。
+[[pf]]
+src = "checking在ripple里面"
+dst = "check in 在 repo 里面"
+ts = "01:25:37.320 --> 01:25:42.020"
+
+# 紧接“一张截图”。
+[[pf]]
+src = "做size"
+dst = "做 slides"
+ts = "01:26:00.529 --> 01:26:03.410"
+
+# 语义检查的模型。
+[[pf]]
+src = "大圆模型"
+dst = "大语言模型"
+ts = "01:26:33.870 --> 01:26:36.710"
+
+# 2024年语言模型举例；只是恢复字幕音译，不补版本细节。
+[[pf]]
+src = "恰GPTGPT4"
+dst = "ChatGPT、GPT-4"
+ts = "01:26:36.710 --> 01:26:38.610"
+
+# 前面课程已经讨论该论文，此处说paper。
+[[pf]]
+src = "sweet bench"
+dst = "SWE-bench"
+ts = "01:26:42.850 --> 01:26:46.110"
+
+# 承接open problem就是语义正确。
+[[pf]]
+src = "余政"
+dst = "语义正确"
+ts = "01:27:09.570 --> 01:27:11.810"
+
+# 先猜一个点然后逐步修正的上下文。
+[[pf]]
+src = "initial gus"
+dst = "initial guess"
+ts = "01:29:10.030 --> 01:29:13.230"
+
+# 前后多次明确语义对齐。
+[[pf]]
+src = "语一对齐"
+dst = "语义对齐"
+ts = "01:29:13.230 --> 01:29:16.270"
+
+# 前一cue明确fundamentally，随后中文重复同义。
+[[pf]]
+src = "仿的matter里"
+dst = "fundamentally"
+ts = "01:29:27.180 --> 01:29:30.270"
+
+# 后文列重构、重做需求、重写spec等操作。
+[[pf]]
+src = "基操作"
+dst = "基本操作"
+ts = "01:30:29.480 --> 01:30:31.840"
